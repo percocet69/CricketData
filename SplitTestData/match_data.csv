@@ -1,0 +1,8 @@
+match_id,date,season,won_by,win_margin,city,venue,event_name,event_stage,match_type,team_type,team1,team2,toss_winner,outcome_winner,player_of_match,ballsBowled_team1,runsBatter_team1,runsExtra_team1,totalRuns_team1,extras_noballs_team1,extras_wides_team1,extras_byes_team1,extras_legbyes_team1,ballsBowled_team2,runsBatter_team2,runsExtra_team2,totalRuns_team2,extras_noballs_team2,extras_wides_team2,extras_byes_team2,extras_legbyes_team2,wickets_inning1,wickets_inning2,wickets_inning3,wickets_inning4
+1000851,2016-11-03,2016/17,runs,177,1.0,1,1,,1,1,1,24,24,24,11,1351,567,38,605,7,4,13,14,1148,735,47,782,1,19,14,13,10.0,10.0,8.0,10.0
+1000853,2016-11-12,2016/17,innings,1,2.0,2,1,,1,1,1,24,24,24,32,606,243,3,246,1,0,0,2,559,314,12,326,1,0,3,8,10.0,10.0,10.0,0.0
+1000855,2016-11-24,2016/17,wickets,7,,3,1,,1,1,1,24,24,1,26,974,488,22,510,4,2,3,13,978,482,27,509,4,2,3,18,9.0,10.0,10.0,3.0
+1000881,2016-12-15,2016/17,runs,39,3.0,4,2,,1,1,1,26,1,1,41,1203,611,20,631,8,1,2,9,1024,581,11,592,0,3,0,8,10.0,10.0,5.0,10.0
+1000883,2016-12-26,2016/17,innings,1,,5,2,,1,1,1,26,26,1,24,1083,597,27,624,13,1,1,12,866,576,30,606,3,5,8,14,9.0,8.0,10.0,0.0
+1000885,2017-01-03,2016/17,runs,220,,6,2,,1,1,1,26,1,1,5,1146,759,20,779,5,3,8,4,1010,555,4,559,1,0,3,0,8.0,10.0,2.0,10.0
+1000887,2017-01-13,2016/17,runs,92,3.0,4,3,,2,1,1,26,1,1,35,261,257,11,268,1,9,0,1,310,162,14,176,0,5,4,5,9.0,10.0,0.0,0.0

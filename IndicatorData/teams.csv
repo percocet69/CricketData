@@ -1,0 +1,359 @@
+team_id,team_name
+1,Australia
+2,Northern Knights
+3,Leinster Lightning
+4,North-West Warriors
+5,Knights
+6,Titans
+7,Dolphins
+8,Cape Cobras
+9,Warriors
+10,Lions
+11,Papua New Guinea
+12,Netherlands
+13,Kenya
+14,Scotland
+15,Ireland
+16,Zimbabwe
+17,St Lucia Zouks
+18,Guyana Amazon Warriors
+19,Trinbago Knight Riders
+20,Jamaica Tallawahs
+21,Barbados Tridents
+22,New Zealand
+23,England
+24,South Africa
+25,India
+26,Pakistan
+27,Bangladesh
+28,West Indies
+29,Sydney Thunder
+30,Adelaide Strikers
+31,Melbourne Renegades
+32,Sydney Sixers
+33,Perth Scorchers
+34,Hobart Hurricanes
+35,Brisbane Heat
+36,Melbourne Stars
+37,Hong Kong
+38,Loughborough Lightning
+39,Western Storm
+40,Victoria
+41,Sri Lanka
+42,Gibraltar
+43,Germany
+44,Israel
+45,Malaysia
+46,Central Stags
+47,Canterbury
+48,Wellington Firebirds
+49,Auckland Aces
+50,Northern Districts
+51,Otago Volts
+52,Qatar
+53,Denmark
+54,Bermuda
+55,United States of America
+56,Italy
+57,Rajshahi Kings
+58,Khulna Titans
+59,Chittagong Vikings
+60,Dhaka Dynamites
+61,Barisal Bulls
+62,Comilla Victorians
+63,Rangpur Riders
+64,Japan
+65,Yorkshire
+66,Surrey
+67,Lancashire
+68,Hampshire
+69,Gloucestershire
+70,Worcestershire
+71,Northamptonshire
+72,Derbyshire
+73,Nottinghamshire
+74,Durham
+75,Glamorgan
+76,Essex
+77,Kent
+78,Warwickshire
+79,Leicestershire
+80,Sussex
+81,Somerset
+82,Middlesex
+83,Nepal
+84,United Arab Emirates
+85,Thailand
+86,Oman
+87,Islamabad United
+88,Lahore Qalandars
+89,Karachi Kings
+90,Peshawar Zalmi
+91,Quetta Gladiators
+92,Indonesia
+93,Vanuatu
+94,Fiji
+95,Sunrisers Hyderabad
+96,Rising Pune Supergiant
+97,Gujarat Lions
+98,Kings XI Punjab
+99,Royal Challengers Bangalore
+100,Mumbai Indians
+101,Kolkata Knight Riders
+102,Delhi Daredevils
+103,Nigeria
+104,Ghana
+105,Botswana
+106,Sierra Leone
+107,Tanzania
+108,Bahrain
+109,China
+110,Bhutan
+111,Kuwait
+112,Munster Reds
+113,Samoa
+114,Canada
+115,Uganda
+116,Singapore
+117,Yorkshire Diamonds
+118,Southern Vipers
+119,Surrey Stars
+120,Lancashire Thunder
+121,St Lucia Stars
+122,St Kitts and Nevis Patriots
+123,France
+124,Norway
+125,Austria
+126,Namibia
+127,Guernsey
+128,Jersey
+129,Cayman Islands
+130,Auckland
+131,Central Districts
+132,Wellington
+133,Otago
+134,South Australia
+135,Tasmania
+136,Queensland
+137,New South Wales
+138,Western Australia
+139,Sylhet Sixers
+140,Birmingham Bears
+141,Multan Sultans
+142,Baroda
+143,Gujarat
+144,Rajasthan
+145,Himachal
+146,Karnataka
+147,Tripura
+148,Saurashtra
+149,Vidarbha
+150,Jammu & Kashmir
+151,Hyderabad (India)
+152,Andhra
+153,Odisha
+154,Uttar Pradesh
+155,Punjab
+156,Tamil Nadu
+157,Chhattisgarh
+158,Services
+159,Mumbai
+160,Maharashtra
+161,Kerala
+162,Goa
+163,Assam
+164,Jharkhand
+165,Railways
+166,Madhya Pradesh
+167,Delhi
+168,Rajasthan Royals
+169,Chennai Super Kings
+170,Maldives
+171,Saudi Arabia
+172,Gambia
+173,Trailblazers
+174,Rwanda
+175,Portugal
+176,Cyprus
+177,Isle of Man
+178,Spain
+179,Belgium
+180,Finland
+181,Sweden
+182,Nagaland
+183,Arunachal Pradesh
+184,Bengal
+185,Puducherry
+186,Manipur
+187,Bihar
+188,Sikkim
+189,Haryana
+190,Mizoram
+191,Uttarakhand
+192,Meghalaya
+193,Panama
+194,Belize
+195,Malawi
+196,Mozambique
+197,Lesotho
+198,Myanmar
+199,Cape Town Blitz
+200,Jozi Stars
+201,Durban Heat
+202,Tshwane Spartans
+203,Nelson Mandela Bay Giants
+204,Paarl Rocks
+205,Swaziland
+206,St Helena
+207,Philippines
+208,Delhi Capitals
+209,Supernovas
+210,Velocity
+211,South Korea
+212,Chandigarh
+213,Sylhet Thunder
+214,Cumilla Warriors
+215,Dhaka Platoon
+216,Chattogram Challengers
+217,Rangpur Rangers
+218,Rajshahi Royals
+219,Khulna Tigers
+220,Iran
+221,Sunrisers
+222,South East Stars
+223,Thunder
+224,Northern Diamonds
+225,Lightning
+226,Bulgaria
+227,Romania
+228,Kandy Tuskers
+229,Galle Gladiators
+230,Dambulla Viiking
+231,Colombo Kings
+232,Jaffna Stallions
+233,Central Sparks
+234,Oval Invincibles
+235,London Spirit
+236,Southern Brave
+237,Welsh Fire
+238,Birmingham Phoenix
+239,Northern Superchargers
+240,Trent Rockets
+241,Manchester Originals
+242,Punjab Kings
+243,Luxembourg
+244,Czech Republic
+245,Greece
+246,Serbia
+247,Malta
+248,Barbados Royals
+249,St Lucia Kings
+250,Eswatini
+251,Cameroon
+252,Hungary
+253,Estonia
+254,Switzerland
+255,Argentina
+256,Seychelles
+257,Bahamas
+258,Barbados
+259,Dambulla Giants
+260,Kandy Warriors
+261,Jaffna Kings
+262,Colombo Stars
+263,Minister Group Dhaka
+264,Sylhet Sunrisers
+265,Fortune Barishal
+266,Boland
+267,North West
+268,Western Province
+269,Lucknow Super Giants
+270,Gujarat Titans
+271,Warriors (FairBreak)
+272,Tornadoes
+273,Barmy Army
+274,Spirit
+275,Sapphires
+276,Falcons
+277,Brazil
+278,Croatia
+279,Turkey
+280,Slovenia
+281,Kandy Falcons
+282,Dambulla Aura
+283,Himachal Pradesh
+284,Cook Islands
+285,Mali
+286,Paarl Royals
+287,Joburg Super Kings
+288,Pretoria Capitals
+289,MI Cape Town
+290,Durban's Super Giants
+291,Sunrisers Eastern Cape
+292,Dubai Capitals
+293,MI Emirates
+294,Abu Dhabi Knight Riders
+295,Sharjah Warriors
+296,Gulf Giants
+297,Desert Vipers
+298,The Blaze
+299,Sylhet Strikers
+300,Dhaka Dominators
+301,Cambodia
+302,Gujarat Giants
+303,UP Warriorz
+304,Texas Super Kings
+305,San Francisco Unicorns
+306,Washington Freedom
+307,Seattle Orcas
+308,MI New York
+309,Los Angeles Knight Riders
+310,Galle Titans
+311,Colombo Strikers
+312,B-Love Kandy
+313,Chile
+314,Mexico
+315,Durdanto Dhaka
+316,Royal Challengers Bengaluru
+317,Dambulla Sixers
+318,Galle Marvels
+319,Antigua and Barbuda Falcons
+320,Costa Rica
+321,Mongolia
+322,Ivory Coast
+323,Durbar Rajshahi
+324,Dhaka Capital
+325,Chittagong Kings
+326,Sharjah Warriorz
+327,Biratnagar Kings
+328,Kathmandu Gurkhas
+329,Karnali Yaks
+330,Sudur Paschim Royals
+331,Chitwan Rhinos
+332,Lumbini Lions
+333,Pokhara Avengers
+334,Janakpur Bolts
+335,Suriname
+336,Africa XI
+337,Deccan Chargers
+338,Kochi Tuskers Kerala
+339,Pune Warriors
+340,Impi
+341,Barisal Burners
+342,Khulna Royal Bengals
+343,Duronto Rajshahi
+344,Dhaka Gladiators
+345,Sylhet Royals
+346,Trinidad & Tobago Red Steel
+347,Antigua Hawksbills
+348,Sylhet Super Stars
+349,Rising Pune Supergiants
+350,Trinidad and Tobago
+351,Guyana
+352,Leeward Islands
+353,Jamaica
+354,Windward Islands
+355,Zambia
+356,ICC World XI
+357,KwaZulu-Natal Inland
+358,Asia XI

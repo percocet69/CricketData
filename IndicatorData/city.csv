@@ -1,0 +1,334 @@
+city_id,city
+1,Perth
+2,Hobart
+3,Brisbane
+4,Victoria
+5,Canberra
+6,Belfast
+7,Strabane
+8,Dublin
+9,Waringstown
+10,Comber
+11,Johannesburg
+12,Durban
+13,Paarl
+14,Benoni
+15,Bloemfontein
+16,Potchefstroom
+17,Port Elizabeth
+18,Centurion
+19,Kimberley
+20,Cape Town
+21,East London
+22,Port Moresby
+23,Amstelveen
+24,Nairobi
+25,Edinburgh
+26,Londonderry
+27,St Lucia
+28,Guyana
+29,Barbados
+30,Jamaica
+31,Christchurch
+32,Nelson
+33,Napier
+34,Mount Maunganui
+35,Wellington
+36,Hamilton
+37,Auckland
+38,Dunedin
+39,London
+40,Birmingham
+41,Cardiff
+42,Antigua
+43,Trinidad
+44,Melbourne
+45,Sydney
+46,Albury
+47,Bendigo
+48,Bulawayo
+49,St Kitts
+50,Hong Kong
+51,Bristol
+52,Mirpur
+53,Chittagong
+54,Kanpur
+55,Kolkata
+56,Indore
+57,Dharmasala
+58,Delhi
+59,Chandigarh
+60,Ranchi
+61,Visakhapatnam
+62,Leeds
+63,Southampton
+64,Taunton
+65,Nottingham
+66,Manchester
+67,Chester-le-Street
+68,Southend-on-Sea
+69,Rajkot
+70,Mumbai
+71,Chennai
+72,Pune
+73,Cuttack
+74,Nagpur
+75,Bangalore
+76,Chelmsford
+77,Alice Springs
+78,Cox's Bazar
+79,Lauderhill
+80,Hyderabad
+81,Coffs Harbour
+82,Colombo
+83,Stockholm
+84,Abu Dhabi
+85,Lincoln
+86,Los Angeles
+87,Bengaluru
+88,Dharamsala
+89,Dhaka
+90,Chattogram
+91,Launceston
+92,Bangkok
+93,Cheltenham
+94,Worcester
+95,Northampton
+96,Chesterfield
+97,Liverpool
+98,Beckenham
+99,Hove
+100,Canterbury
+101,Richmond
+102,Leicester
+103,Derby
+104,Brighton
+105,Gosforth
+106,Market Warsop
+107,Radlett
+108,Blackpool
+109,Eastbourne
+110,Swansea
+111,Southport
+112,Guildford
+113,Scarborough
+114,Uxbridge
+115,Colwyn Bay
+116,Kirtipur
+117,Sharjah
+118,Dubai
+119,Lahore
+120,Dominica
+121,Chiang Mai
+122,Bready
+123,Eglinton
+124,Cork
+125,Kampala
+126,Loughborough
+127,York
+128,Arundel
+129,Voorburg
+130,Hambantota
+131,Windhoek
+132,Adelaide
+133,Geelong
+134,Whangarei
+135,Stirling
+136,Wollongong
+137,Mackay
+138,Rangiora
+139,Alexandra
+140,New Plymouth
+141,Invercargill
+142,Cairns
+143,Guwahati
+144,Thiruvananthapuram
+145,Sylhet
+146,Tunbridge Wells
+147,Northwood
+148,Oakham
+149,Karachi
+150,Vadodara
+151,Harare
+152,Kwekwe
+153,Jaipur
+154,Kuwait City
+155,Rotterdam
+156,Deventer
+157,Lagos
+158,Kuala Lumpur
+159,Bangi
+160,Bandar Kinrara
+161,North Sound
+162,Utrecht
+163,Carrara
+164,Moe
+165,Burnie
+166,Ballarat
+167,Suva
+168,The Hague
+169,Schiedam
+170,Pietermaritzburg
+171,Morrisville
+172,FTZ Sports Complex
+173,Lucknow
+174,Bridgetown
+175,Gros Islet
+176,St George's
+177,Basseterre
+178,Gaborone
+179,Dasmarinas
+180,Newport
+181,Nettleworth
+182,Kidderminster
+183,Sedbergh
+184,Chester
+185,Derry
+186,Al Amarat
+187,Katunayake
+188,Pretoria
+189,Murcia
+190,Port Vila
+191,Castel
+192,St Peter Port
+193,Nuriootpa
+194,Providence
+195,Port of Spain
+196,Kingston
+197,Kigali City
+198,Singapore
+199,Galle
+200,Kandy
+201,Aberdeen
+202,Dundee
+203,Arbroath
+204,Incheon
+205,Coolidge
+206,Surat
+207,Rawalpindi
+208,Almeria
+209,Pokhara
+210,Multan
+211,Tarouba
+212,Lower Austria
+213,Walferdange
+214,Ahmedabad
+215,Welbeck
+216,Grantham
+217,Kibworth
+218,Cambridge
+219,Sale
+220,Pallekele
+221,Prague
+222,Sofia
+223,Marsa
+224,Krefeld
+225,Brondby
+226,Albergaria
+227,Kerava
+228,Entebbe
+229,Kolsva
+230,Ilfov County
+231,Gqeberha
+232,Episkopi
+233,Palmerston North
+234,Naucalpan
+235,Doha
+236,Queenstown
+237,Neath
+238,Navi Mumbai
+239,Ajman
+240,Pearland
+241,Roseau
+242,Townsville
+243,Dambulla
+244,Ghent
+245,Waterloo
+246,St Saviour
+247,Vantaa
+248,Ayr
+249,Glasgow
+250,Belgrade
+251,Latrobe
+252,King City
+253,St Martin
+254,Sano
+255,Osaka
+256,Wormsley
+257,Street
+258,Newbury
+259,Sookholme
+260,Raipur
+261,Phnom Penh
+262,Buenos Aires
+263,Mong Kok
+264,Kowloon
+265,Gibraltar
+266,Kathmandu
+267,Copenhagen
+268,Milverton
+269,St Clement
+270,Grand Prairie
+271,Dallas
+272,Dehra Dun
+273,Szodliget
+274,Hangzhou
+275,Bali
+276,Wong Nai Chung Gap
+277,Rugby
+278,New York
+279,Kingstown
+280,Johor
+281,Mohali
+282,Accra
+283,Houston
+284,Solihull
+285,Guacima
+286,Wicklow
+287,Dreux
+288,Spinaceto
+289,Rome
+290,Gwalior
+291,Port  Soif
+292,Zagreb
+293,Apia
+294,Oslo
+295,Koge
+296,Dar-es-Salaam
+297,Corfu
+298,Seropedica
+299,Gelephu
+300,Blantyre
+301,Jinja
+302,Abuja
+303,Mexico City
+304,St John's
+305,St Vincent
+306,Faisalabad
+307,Peshawar
+308,Bogra
+309,Fatullah
+310,Faridabad
+311,Margao
+312,Jamshedpur
+313,Grenada
+314,Kochi
+315,Bowral
+316,Sind
+317,Darwin
+318,Kurunegala
+319,Toronto
+320,Pianoro
+321,Navile
+322,Medicina
+323,Khulna
+324,Bermuda
+325,Horsham
+326,Colchester
+327,Milton Keynes
+328,Padang
+329,Gold Coast
+330,Frinton-on-Sea
+331,Halstead
+332,Coggeshall
+333,Bishop's Stortford

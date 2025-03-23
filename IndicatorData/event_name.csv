@@ -1,0 +1,944 @@
+event_name_id,event_name
+1,South Africa in Australia Test Series
+2,Pakistan in Australia Test Series
+3,Pakistan in Australia ODI Series
+4,Sri Lanka in Australia T20I Series
+5,Chappell-Hadlee Trophy
+6,Cricket Ireland Inter-Provincial Limited Over Cup
+7,Cricket Ireland Inter-Provincial Twenty20 Trophy
+8,CSA T20 Challenge
+9,ICC Intercontinental Cup
+10,ICC World Cricket League Championship
+11,Hong Kong in Scotland ODI Series
+12,Hong Kong in Ireland T20I Series
+13,India in Zimbabwe ODI Series
+14,India in Zimbabwe T20I Series
+15,Caribbean Premier League
+16,Bangladesh in New Zealand ODI Series
+17,Bangladesh in New Zealand T20I Series
+18,Bangladesh in New Zealand Test Series
+19,Pakistan in New Zealand Test Series
+20,South Africa in New Zealand ODI Series
+21,South Africa in New Zealand Test Series
+22,ICC Champions Trophy
+23,India in West Indies Test Series
+24,Big Bash League
+25,Women's Big Bash League
+26,New Zealand in Zimbabwe Test Series
+27,Papua New Guinea in Hong Kong ODI Series
+28,England in West Indies ODI Series
+29,Ireland in England ODI Series
+30,England in Bangladesh ODI Series
+31,England in Bangladesh Test Series
+32,New Zealand in India Test Series
+33,New Zealand in India ODI Series
+34,South Africa in England ODI Series
+35,South Africa in England T20I Series
+36,Basil D'Oliveira Trophy
+37,South Africa tour of England
+38,West Indies tour of England
+39,Ireland Tri-Nation Series
+40,ICC Women's World Cup Qualifying Series Europe Region
+41,England in India Test Series
+42,England in India ODI Series
+43,England in India T20I Series
+44,Women's Cricket Super League
+45,Sheffield Shield
+46,South Africa Women in Bangladesh ODI Series
+47,West Indies v India T20I Series
+48,ICC Women's Championship
+49,South Africa Women in Australia ODI Series
+50,New Zealand Women in Australia T20I Series
+51,Australia Women in Sri Lanka ODI Series
+52,ICC World Cricket League Europe Region Division Two Twenty20
+53,Saudari Cup
+54,Pakistan v West Indies T20I Series
+55,Pakistan v West Indies ODI Series
+56,Pakistan v West Indies Test Series
+57,Pakistan Women in New Zealand ODI Series
+58,Rose Bowl
+59,Plunket Shield
+60,Kenya T20 Quadrangular Series
+61,Sri Lanka in Zimbabwe Test Series
+62,Zimbabwe Tri-Nation Series
+63,ICC World Cricket League Division Four
+64,Australia in India Test Series
+65,Border-Gavaskar Trophy
+66,England Women in Sri Lanka ODI Series
+67,Bangladesh Premier League
+68,East Asia Cup
+69,Asian Cricket Council Women's Twenty20 Asia Cup
+70,NatWest T20 Blast
+71,Royal London One-Day Cup
+72,Specsavers County Championship
+73,England tour of Australia and New Zealand
+74,Trans-Tasman Twenty20 Trophy
+75,ICC Women's World Cup Qualifier
+76,Desert T20 Challenge
+77,Bangladesh tour of South Africa
+78,Australia tour of South Africa
+79,Pakistan Super League
+80,Pakistan in West Indies T20I Series
+81,Pakistan in West Indies ODI Series
+82,Pakistan in West Indies Test Series
+83,United Arab Emirates Tri-Nation Series
+84,Ireland in United Arab Emirates ODI Series
+85,ICC World Cricket League East Asia-Pacific Region Qualifiers
+86,Indian Premier League
+87,Bangladesh in Sri Lanka Test Series
+88,Bangladesh in Sri Lanka ODI Series
+89,Bangladesh in Sri Lanka T20I Series
+90,ICC Women's World Cup
+91,Women's Ashes
+92,England Women tour of Australia
+93,ICC World Cricket League Africa Region Qualifiers
+94,Papua New Guinea in United Arab Emirates ODI Series
+95,Papua New Guinea in United Arab Emirates T20I Series
+96,Zimbabwe in Scotland ODI Series
+97,ICC World Cricket League Asia Region Division One
+98,Women's Quadrangular Series (in South Africa)
+99,ICC Women's World Twenty20 Qualifying Series East Asia-Pacific Region
+100,ICC World Cricket League Division Three
+101,India in West Indies ODI Series
+102,ICC World Cricket League Europe Region Division One
+103,Australia tour of Bangladesh
+104,Zimbabwe in Sri Lanka ODI Series
+105,Zimbabwe tour of Sri Lanka
+106,India tour of Sri Lanka
+107,West Indies tour of New Zealand
+108,Pakistan tour of New Zealand
+109,ICC Women's World Twenty20 Qualifying Series European-Americas Region
+110,Independence Cup
+111,ICC World Cricket League Division Five
+112,Super Smash
+113,ICC Women's World Twenty20 Qualifying Series Africa Region
+114,Australia tour of India
+115,"Pakistan tour of Ireland, England and Scotland"
+116,Australia tour of England
+117,India tour of Ireland and England
+118,New Zealand tour of India
+119,Sri Lanka tour of United Arab Emirates and Pakistan
+120,Pakistan tour of United Arab Emirates
+121,ICC Women's World Twenty20 Qualifying Series Asia Region
+122,India tour of South Africa
+123,Zimbabwe tour of South Africa
+124,Sri Lanka tour of India
+125,West Indies tour of Zimbabwe
+126,Sri Lanka Women tour of West Indies
+127,New Zealand Women tour of United Arab Emirates
+128,India Women tour of South Africa
+129,Ram Slam T20 Challenge
+130,England Tri-Nation T20 Women's Series
+131,Vitality Blast
+132,Syed Mushtaq Ali Trophy
+133,Tri-Nation Tournament in Bangladesh
+134,Sri Lanka tour of Bangladesh
+135,India Tri-Nation Women's T20 Series
+136,England Women tour of India
+137,ICC Cricket World Cup Qualifier
+138,ICC Cricket World Cup Qualifier (ICC Trophy)
+139,Nidahas Trophy
+140,ICC World Cricket League Division Two
+141,Sri Lanka tour of West Indies
+142,West Indies Women tour of New Zealand
+143,Pakistan Women tour of Sri Lanka
+144,West Indies tour of Pakistan
+145,England tour of Sri Lanka
+146,ICC World XI tour of England
+147,Marylebone Cricket Club Tri-Nation T20 Series
+148,ICC World Twenty20 Asia Region Qualifier A
+149,Netherlands Tri-Nation T20I Series
+150,South Africa tour of Sri Lanka
+151,Zimbabwe Twenty20 Tri-Series
+152,Pakistan tour of Zimbabwe
+153,ICC World Twenty20 Africa Region Qualifier A
+154,Pakistan tour of South Africa
+155,Sri Lanka tour of South Africa
+156,Bangladesh Women tour of South Africa
+157,World Cup
+158,New Zealand Women tour of Australia
+159,South Africa tour of Australia
+160,India tour of Australia
+161,Sri Lanka tour of Australia
+162,New Zealand Women tour of Ireland and England
+163,Bangladesh Women tour of Ireland
+164,Bangladesh tour of West Indies and United States of America
+165,Women's T20 Challenge Match
+166,ICC Women's T20 Qualifier
+167,Women's Twenty20 Asia Cup
+168,ICC Women's T20 World Cup
+169,ICC World Twenty20 Africa Region Qualifier B
+170,Ireland tour of England
+171,Pakistan tour of England
+172,The Ashes
+173,Asia Cup
+174,West Indies tour of Bangladesh
+175,Zimbabwe tour of Bangladesh
+176,India tour of New Zealand
+177,Sri Lanka tour of New Zealand
+178,Bangladesh tour of New Zealand
+179,India in New Zealand ODI Series
+180,India Women tour of New Zealand
+181,Asia Cup Qualifiers
+182,ICC World Twenty20 East Asia-Pacific Region Qualifier A
+183,ICC World Twenty20 Europe Region Qualifier A
+184,South Africa Women tour of West Indies
+185,ICC World Twenty20 Europe Region Qualifier B
+186,ICC World Twenty20 Europe Region Qualifier C
+187,Australia tour of United Arab Emirates
+188,New Zealand tour of United Arab Emirates
+189,ICC World Twenty20 Americas Sub Regional Qualifier A
+190,India Women tour of Sri Lanka
+191,West Indies tour of India
+192,England tour of West Indies
+193,Botswana Cricket Association Women's T20I Series
+194,ICC World Twenty20 Asia Region Qualifier B
+195,England tour of Ireland
+196,Australia Women v Pakistan Women T20I Series
+197,Mzansi Super League
+198,ICC World Twenty20 Africa Region Qualifier C
+199,ICC World Twenty20 East Asia-Pacific Region Qualifier B
+200,West Indies Women tour of England and Ireland
+201,Australia Women tour of England
+202,Sri Lanka Women tour of South Africa
+203,Sri Lanka in South Africa ODI Series
+204,Zimbabwe tour of Netherlands and Ireland
+205,Ireland v Zimbabwe
+206,Sri Lanka tour of England and Scotland
+207,Nepal tour of United Arab Emirates
+208,Pakistan vs West Indies ODI Series
+209,West Indies Women tour of Pakistan and United Arab Emirates
+210,Oman Quadrangular T20I Series
+211,ICC Women's T20 World Cup Asia Region Qualifier
+212,England Women tour of Sri Lanka
+213,ICC World Twenty20 East Asia-Pacific Region Final
+214,Pakistan Women tour of South Africa
+215,United States of America tour of United Arab Emirates
+216,Germany tour of Netherlands
+217,Botswana Women tour of Namibia
+218,United Arab Emirates tour of Zimbabwe
+219,Women's T20 Challenge
+220,ICC Women's T20 World Cup Africa Region Qualifier
+221,ICC Women's T20 World Cup East Asia-Pacific Region Qualifier
+222,Sri Lanka Women tour of Australia
+223,Pakistan tour of Australia
+224,Trans-Tasman Trophy
+225,New Zealand tour of Australia
+226,Australia Tri-Nation Women's T20 Series
+227,ICC Women's T20 World Cup Americas Region Qualifier
+228,ICC Men's T20 World Cup Africa Region Final
+229,ICC Men's T20 World Cup Europe Region Final
+230,England tour of South Africa
+231,Malaysia Tri-Nation T20I Series
+232,South Africa tour of India
+233,South Africa in India Test Series
+234,Bangladesh tour of India
+235,Bangladesh in India Test Series
+236,England tour of New Zealand
+237,England in New Zealand Test Series
+238,India in New Zealand Test Series
+239,South Africa Women in New Zealand ODI Series
+240,South Africa Women tour of New Zealand
+241,India tour of United States of America and West Indies
+242,Kwibuka Women's Twenty20 Tournament
+243,ICC Women's T20 World Cup Europe Region Qualifier
+244,Women's T20I Quadrangular Series (in Netherlands)
+245,ICC Men's T20 World Cup Asia Region Final
+246,United Arab Emirates tour of Netherlands
+247,Nepal tour of Malaysia
+248,New Zealand in Sri Lanka Test Series
+249,New Zealand tour of Sri Lanka
+250,Bangladesh tour of Sri Lanka
+251,Nigeria Women tour of Rwanda
+252,Marsh Sheffield Shield
+253,ICC Men's Cricket World Cup League 2
+254,ICC Women's T20 World Cup Qualifier
+255,Bangladesh Twenty20 Tri-Series
+256,Women's Twenty20 East Asia Cup
+257,ICC Men's T20 World Cup Americas Region Final
+258,Botswana tour of Namibia
+259,Oman Pentangular T20I Series
+260,New Zealand Cricket Women's Twenty20
+261,Australia Women tour of West Indies
+262,South Africa Women tour of India
+263,Sri Lanka tour of Pakistan
+264,ICC Men's T20 World Cup Qualifier
+265,Ireland Tri-Nation T20I Series
+266,CWC Challenge League
+267,Iberia Cup
+268,Singapore Twenty20 Tri-Series
+269,Vanuatu tour of Malaysia
+270,India Women in West Indies
+271,India Women tour of West Indies
+272,Ireland tour of West Indies
+273,Bangladesh Women tour of Pakistan
+274,Sri Lanka in Pakistan Test Series
+275,Germany tour of Spain
+276,England Women ODI tour of Malaysia
+277,England Women tour of Malaysia
+278,South Asian Games Men's Cricket Competition
+279,South Asian Games Women's Cricket Competition
+280,Sri Lanka tour of Zimbabwe
+281,Bangladesh tour of Pakistan
+282,Bangladesh in Pakistan Test Series
+283,West Indies tour of Sri Lanka
+284,Germany Women tour of Oman
+285,Hong Kong tour of Malaysia
+286,ACC Western Region T20
+287,ACC Eastern Region T20
+288,Bob Willis Trophy
+289,Germany Women tour of Austria
+290,Rachael Heyhoe Flint Trophy
+291,Luxembourg Twenty20 Tri-Series
+292,Isle of Man tour of Guernsey
+293,West Indies Women tour of England
+294,Zimbabwe tour of Pakistan
+295,Australia tour of New Zealand
+296,Balkan Cup
+297,Lanka Premier League
+298,Sri Lanka tour of England
+299,India tour of England
+300,South Africa tour of Pakistan
+301,England tour of India
+302,India v England
+303,ICC Men's Cricket World Cup Super League
+304,County Championship
+305,Ireland tour of United Arab Emirates
+306,New Zealand tour of England
+307,England Women tour of New Zealand
+308,Australia Women tour of New Zealand
+309,Pakistan Women tour of Zimbabwe
+310,ICC World Test Championship
+311,South Africa tour of Ireland
+312,Ireland tour of Netherlands
+313,West Indies v Sri Lanka
+314,Charlotte Edwards Cup
+315,The Hundred Men's Competition
+316,The Hundred Women's Competition
+317,India Women v South Africa Women
+318,Sri Lanka v Bangladesh
+319,Uganda tour of Namibia
+320,Nepal Tri-Nation T20I Series
+321,Scotland tour of Netherlands
+322,India Women tour of England
+323,New Zealand Women tour of England
+324,Scotland Women tour of Ireland
+325,South Africa tour of West Indies
+326,Australia tour of West Indies
+327,Pakistan tour of West Indies
+328,India Women tour of Australia
+329,Central Europe Cup
+330,Sofia Twenty20
+331,Pakistan Women tour of West Indies
+332,Bangladesh tour of Zimbabwe
+333,Belgium tour of Malta
+334,France Women tour of Germany
+335,Netherlands Women tour of Ireland
+336,Germany T20 Tri-Series
+337,New Zealand tour of Bangladesh
+338,Zimbabwe tour of Ireland and Scotland
+339,Thailand Women tour of Zimbabwe
+340,Sweden tour of Denmark
+341,Portugal T20 Tri-Series
+342,Ghana tour of Rwanda
+343,Sweden tour of Finland
+344,ICC Men's T20 World Cup
+345,Uganda T20 Tri-Series
+346,Norway Women tour of Sweden
+347,Continental Cup
+348,Papua New Guinea v United States of America ODI Series
+349,Nepal v Papua New Guinea ODI Series
+350,Netherlands tour of South Africa
+351,Ireland tour of United States of America and West Indies
+352,West Indies Women tour of South Africa
+353,Pakistan tour of Bangladesh
+354,Estonia tour of Cyprus
+355,Cyprus T20 Tri-Series
+356,Namibia v Scotland T20I Match
+357,Namibia v Papua New Guinea T20I Match
+358,Papua New Guinea v Scotland T20I Match
+359,Ireland Women tour of Zimbabwe
+360,England tour of Netherlands
+361,Valletta Cup
+362,ICC Men's T20 World Cup Europe Region Qualifier
+363,ICC Men's T20 World Cup Sub Regional Africa Qualifier Group A & B
+364,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+365,Sierra Leone tour of Nigeria
+366,ICC Men's T20 World Cup Asia A Qualifier
+367,ICC Men's T20 World Cup Americas Region Qualifier
+368,ICC Women's Cricket World Cup Qualifier
+369,West Indies Women tour of Pakistan
+370,Australia tour of Pakistan
+371,Bangladesh Women in Zimbabwe ODI Series
+372,South Africa tour of New Zealand
+373,Netherlands tour of New Zealand
+374,ICC Men's T20 World Cup Africa Region Qualifier
+375,Commonwealth Games Women's Cricket Competition
+376,Nepal Women tour of Qatar
+377,Women's Super Smash
+378,Commonwealth Games Women's Cricket Competition Qualifiers
+379,Bangladesh Women tour of Malaysia
+380,Scotland Women tour of Malaysia
+381,Kenya Women tour of Malaysia
+382,Sri Lanka Women tour of Malaysia
+383,ICC Men’s T20 World Cup Qualifier A
+384,ICC Men's T20 World Cup Qualifier A
+385,South Africa Women tour of England
+386,West Indies tour of Netherlands
+387,India tour of Ireland
+388,New Zealand tour of Ireland
+389,Papua New Guinea tour of Nepal
+390,GCC Women's Twenty20 Championship Cup
+391,Australia tour of Sri Lanka
+392,New Zealand tour of Scotland
+393,Ireland Women tour of Pakistan
+394,Spain Triangular T20I Series
+395,Finland tour of Denmark
+396,Inter-Insular T20 Series
+397,Capricorn Women's Tri-Series
+398,New Zealand tour of Netherlands
+399,Namibia tour of Zimbabwe
+400,Sri Lanka Women tour of Pakistan
+401,Pakistan tour of Netherlands
+402,Hong Kong Women tour of United Arab Emirates
+403,FairBreak Invitational Tournament
+404,Uganda Women tour of Nepal
+405,South Africa Women tour of Ireland
+406,Bangladesh tour of West Indies
+407,Zimbabwe tour of Australia
+408,West Indies tour of Australia
+409,England tour of Australia
+410,Ireland Tri-Nation Women's T20I Series
+411,India tour of West Indies
+412,New Zealand tour of West Indies
+413,Asian Cricket Council Women's T20 Championship
+414,Pakistan tour of Sri Lanka
+415,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+416,Inter-Insular Women's Twenty20 Series
+417,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+418,Malaysia tour of Singapore
+419,Namibia Women tour of Netherlands
+420,Quadrangular Twenty20 Series (Malaysia)
+421,Papua New Guinea tour of Singapore
+422,New Zealand T20I Tri-Series
+423,Bangladesh Women tour of New Zealand
+424,Women's Caribbean Premier League
+425,Bulgaria tour of Serbia
+426,India tour of Zimbabwe
+427,England tour of Pakistan
+428,Bahrain tour of Oman
+429,Nepal tour of Kenya
+430,Ireland Women tour of Netherlands
+431,Men's T20 Asia Cup Qualifier
+432,Women's T20I Quadrangular Series (in UAE)
+433,Ireland Women tour of Scotland
+434,Africa Cricket Association Cup
+435,ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A
+436,Indonesia tour of Japan
+437,New Zealand Women tour of West Indies
+438,Women's Asia Cup
+439,Bangladesh tour of United Arab Emirates
+440,Sri Lanka Women tour of England
+441,ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B
+442,Women's East Asia Cup
+443,Women's T20 Pentangular Series (in Spain)
+444,West Indies tour of South Africa
+445,New Zealand tour of Pakistan
+446,India tour of Bangladesh
+447,United Arab Emirates tour of Nepal
+448,England Women tour of West Indies
+449,SA20
+450,Netherlands Women tour of Thailand
+451,South Africa Women's T20I Tri-Series
+452,Desert Cup T20I Series
+453,Pakistan Women tour of Australia
+454,Australia Women tour of India
+455,Kenya Quadrangular Women's T20 Series
+456,International League T20
+457,One-Day Cup
+458,Ireland tour of Zimbabwe
+459,Tri-Nation T20 Cup (Rwanda)
+460,England tour of Bangladesh
+461,Isle of Man tour of Spain
+462,Ireland tour of Bangladesh
+463,Singapore Women tour of Cambodia
+464,Women's Premier League
+465,Bermuda tour of Argentina
+466,Quadrangular Twenty20 Series (Hong Kong)
+467,Netherlands tour of Zimbabwe
+468,Ireland tour of Sri Lanka
+469,Ireland v Bangladesh
+470,ICC Cricket World Cup Qualifier Play-off
+471,Nigeria Cricket Federation Women's T20I Tournament
+472,Zimbabwe Women tour of Thailand
+473,Gibraltar tour of Portugal
+474,Gibraltar Tri-Nation T20I Series
+475,ACC Men's Premier Cup
+476,Bangladesh Women tour of Sri Lanka
+477,Nordic T20 Cup
+478,Women's T20 Quadrangular Series (in Namibia)
+479,West Indies Women tour of Australia
+480,South Africa Women tour of Australia
+481,Nepal Women tour of Malaysia
+482,West Indies tour of United Arab Emirates
+483,ICC Women's T20 World Cup Europe Division 2 Qualifier
+484,Ireland Women tour of West Indies
+485,Australia Women tour of Ireland
+486,Africa Continental Cup
+487,Asian Cricket Council Women's Emerging Teams Cup
+488,New Zealand Women tour of Sri Lanka
+489,Belgium tour of Germany
+490,Hungary tour of Czech Republic
+491,India tour of West Indies and United States of America
+492,Major League Cricket
+493,Austria tour of Netherlands
+494,Quadrangular Twenty20 Series (Bulgaria)
+495,South Africa Women tour of Pakistan
+496,India Women tour of Bangladesh
+497,ICC Men's T20 World Cup East Asia-Pacific Qualifier
+498,ICC Men's T20 World Cup Asia B Qualifier
+499,ICC Cricket World Cup
+500,Thailand Women tour of Netherlands
+501,Netherlands Women's T20I Tri-Series
+502,Mdina Cup
+503,Women's Continental Cup
+504,Pakistan Women tour of New Zealand
+505,Croatia tour of Hungary
+506,Estonia tour of Gibraltar
+507,Myanmar Women tour of Singapore
+508,Nordic Women T20 Cup
+509,Jersey Women tour of Netherlands
+510,New Zealand Women tour of South Africa
+511,Gulf Cricket T20I Championship
+512,East Africa Cup
+513,Women's T20 Quadrangular Series (in Malaysia)
+514,Japan Women tour of Vanuatu
+515,ICC Women's T20 World Cup Africa Region Division Two Qualifier
+516,Pakistan Women tour of England
+517,Asian Games Women's Cricket Competition
+518,Asian Games Men's Cricket Competition
+519,ICC Men's T20 World Cup Sub Regional Asia Qualifier A
+520,Namibia Women tour of United Arab Emirates
+521,Serbia tour of Gibraltar
+522,Luxembourg tour of Gibraltar
+523,West Africa Trophy
+524,Chile Women tour of Argentina
+525,South American Men's Championships
+526,Ireland Women v Scotland Women
+527,Zimbabwe tour of Namibia
+528,Pakistan Women tour of Bangladesh
+529,ICC Men’s T20 World Cup Asia Qualifier Final
+530,ICC Men's T20 World Cup Asia Qualifier Final
+531,Cambodia tour of Indonesia
+532,Women's T20 Quadrangular Series (in Hong Kong)
+533,Philippines tour of Indonesia
+534,Asian Cricket Council Men's Challenger Cup
+535,Kuwait Women tour of Malaysia
+536,Asian Cricket Council Women's Premier Cup
+537,Canada tour of Nepal
+538,Quadrangular Twenty20 Series (Thailand)
+539,Scotland tour of United Arab Emirates
+540,Hong Kong tour of Qatar
+541,Malaysia Open T20 Championship
+542,Papua New Guinea tour of Oman
+543,Nepal tour of Hong Kong
+544,Hong Kong Men's T20I Series
+545,Women's African Games
+546,African Games
+547,Australia Women tour of Bangladesh
+548,Papua New Guinea tour of Malaysia
+549,Canada tour of United States of America
+550,Bangladesh tour of United States of America
+551,Papua New Guinea Women tour of Zimbabwe
+552,Namibia tour of Oman
+553,Jersey tour of Spain
+554,Pakistan tour of Ireland
+555,Estonia Women tour of Gibraltar
+556,UAE Women's ODI Tri-Series
+557,Central American Cricket Championships
+558,Ireland Women v Thailand Women T20I Series
+559,Mongolia Women tour of Indonesia
+560,BCA Kalahari Women's T20 International Tournament
+561,Sri Lanka Women tour of Ireland
+562,England Women tour of Ireland
+563,Zimbabwe tour of Ireland
+564,Ireland vs South Africa
+565,Mongolia tour of Japan
+566,Thailand tour of Indonesia
+567,England Women tour of South Africa
+568,Italy Women tour of Netherlands
+569,West Indies Women tour of Sri Lanka
+570,Jersey tour of Denmark
+571,Women Central Europe Cup
+572,Estonia Women tour of Cyprus
+573,Hong Kong Women tour of Netherlands
+574,Jersey tour of Guernsey
+575,Indonesia Women's T20I Tri-Series
+576,Australia tour of Scotland
+577,Twenty20 Quadrangular (in Kenya)
+578,Pakistan Tri-Nation Series
+579,Nigeria tour of Kenya
+580,Sri Lanka Women tour of New Zealand
+581,Germany Women's T20I Tri-Series
+582,Netherlands Women's ODI Tri-Series
+583,Italy Women in Germany T20I Match
+584,Spain tour of Croatia
+585,ICC Men's T20 World Cup Asia Qualifier A
+586,Women's Valletta Cup
+587,Namibia Women's T20I Tri-Series
+588,Women's T20I Quadrangular Series (in Denmark)
+589,Rwanda Women tour of Kenya
+590,Cyprus Women tour of Serbia
+591,Japan tour of South Korea
+592,Namibia T20 Tri-Series
+593,Canada T20 Tri-Series
+594,Spain Women tour of Greece
+595,Singapore Women tour of Japan
+596,South Africa tour of Bangladesh
+597,Nepal tour of United States of America
+598,Bhutan Quadrangular T20I Series
+599,Rwanda tour of Malawi
+600,New Zealand Women tour of India
+601,Netherlands tour of Oman
+602,Bulgaria Women tour of Serbia
+603,United States of America Women tour of Zimbabwe
+604,Seychelles in Kenya T20I Match
+605,Singapore Women's T20I Tri-Series
+606,Bulgaria Women tour of Greece
+607,Women's T20I Quadrangular Series (in China)
+608,Myanmar tour of Indonesia
+609,ICC Men's T20 World Cup Asia Qualifier B
+610,Bahrain tour of Uganda
+611,Kenya Women tour of Rwanda
+612,Ireland Women tour of Bangladesh
+613,ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C
+614,Costa Rica Women tour of Mexico
+615,West Indies Women tour of India
+616,Ireland Women tour of India
+617,Nepal Premier League
+618,Namibia Women tour of Malaysia
+619,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+620,Bahrain Women tour of Qatar
+621,Gulf T20I Championship
+622,Jersey Women tour of Gibraltar
+623,Myanmar Women tour of Bhutan
+624,Philippines Women tour of Singapore
+625,Bangladesh Women tour of West Indies
+626,Nepal Women's T20I Tri-Series
+627,Malta Tri-Nation T20I Series
+628,Bahrain tour of Indonesia
+629,United States of America in Oman T20I Series
+630,United States of America tour of Oman
+631,Bahrain tour of Singapore
+632,Bangladesh tour of England
+633,NatWest Challenge
+634,Australia tour of England and Scotland
+635,Indian Oil Cup
+636,New Zealand tour of Zimbabwe
+637,Asia XI tour of South Africa
+638,Videocon Triangular Series
+639,ICC World XI tour of Australia
+640,New Zealand tour of South Africa
+641,India Women tour of Ireland and England
+642,NatWest Series
+643,Pakistan tour of England and Scotland
+644,VB Series
+645,Sri Lanka in New Zealand ODI Series
+646,India tour of Pakistan
+647,India in Pakistan ODI Series
+648,West Indies in New Zealand ODI Series
+649,Sri Lanka in Bangladesh ODI Series
+650,Australia in Bangladesh ODI Series
+651,Australia in South Africa ODI Series
+652,Pakistan in Sri Lanka ODI Series
+653,Zimbabwe in West Indies ODI Series
+654,DLF Cup
+655,ICC World Cup
+656,Bangladesh in Zimbabwe ODI Series
+657,India in South Africa ODI Series
+658,Commonwealth Bank Series
+659,Bangladesh in Kenya ODI Series
+660,Pakistan in South Africa ODI Series
+661,Sri Lanka in New Zealand T20I Series
+662,Zimbabwe in South Africa ODI Series
+663,India in Sri Lanka ODI Series
+664,West Indies in Pakistan ODI Series
+665,West Indies tour of England and Ireland
+666,West Indies in England T20I Series
+667,"India tour of Ireland, England and Scotland"
+668,ICC Tri-Series (in South Africa)
+669,Zimbabwe in Bangladesh ODI Series
+670,ICC World Cricket League Division One
+671,West Indies in India ODI Series
+672,Sri Lanka in India ODI Series
+673,Women's Quadrangular Series
+674,India in Bangladesh ODI Series
+675,ICC World Twenty20
+676,Afro-Asia Cup
+677,England in Sri Lanka ODI Series
+678,Future Cup
+679,Quadrangular Series (Ireland)
+680,Canada in Kenya ODI Series
+681,New Zealand in England Test Series
+682,Australia in India ODI Series
+683,Pakistan in India ODI Series
+684,Pakistan tour of India
+685,New Zealand in South Africa ODI Series
+686,West Indies tour of Zimbabwe and South Africa
+687,Sir Vivian Richards Trophy
+688,West Indies in South Africa T20I Series
+689,West Indies in South Africa ODI Series
+690,South Africa in Pakistan ODI Series
+691,England in New Zealand T20I Series
+692,England in New Zealand ODI Series
+693,South Africa in Zimbabwe ODI Series
+694,ICC Women's World Cup Qualifying Series
+695,England Women tour of Australia and New Zealand
+696,Bermuda in Kenya ODI Series
+697,West Indies in Zimbabwe ODI Series
+698,Sri Lanka in West Indies Test Series
+699,Sri Lanka in West Indies ODI Series
+700,The Frank Worrell Trophy
+701,Australia in West Indies ODI Series
+702,South Africa in Bangladesh Test Series
+703,South Africa in Bangladesh ODI Series
+704,Bermuda in Canada ODI Series
+705,Kenya in Scotland ODI Series
+706,Kenya in Ireland ODI Series
+707,European Championship Division One
+708,Tri-Nation Tournament in Kenya
+709,Zimbabwe in Pakistan ODI Series
+710,Bangladesh in Australia ODI Series
+711,India in Sri Lanka Test Series
+712,Bangladesh in Pakistan ODI Series
+713,Kitply Cup
+714,Australia in England T20I Series
+715,Bangladesh in South Africa Test Series
+716,Bangladesh in South Africa ODI Series
+717,Australia in South Africa Test Series
+718,Australia in South Africa T20I Series
+719,South Africa in Australia ODI Series
+720,South Africa in Australia T20I Series
+721,The Wisden Trophy
+722,ICC World Twenty20 Qualifier
+723,ICC Women's World Twenty20
+724,Kenya in South Africa ODI Series
+725,T20 Canada
+726,New Zealand in Bangladesh Test Series
+727,India in New Zealand T20I Series
+728,West Indies in New Zealand T20I Series
+729,Sri Lanka in Zimbabwe ODI Series
+730,Sri Lanka in Bangladesh Test Series
+731,Australia Women in England ODI Series
+732,Zimbabwe in Kenya ODI Series
+733,Sri Lanka in Pakistan ODI Series
+734,England in South Africa T20I Series
+735,England in South Africa ODI Series
+736,ICC World Cup Qualifiers
+737,Australia v Pakistan ODI Series
+738,Bangladesh in West Indies Test Series
+739,Bangladesh in West Indies ODI Series
+740,Pakistan in Sri Lanka Test Series
+741,Compaq Cup
+742,New Zealand in Sri Lanka T20I Series
+743,West Indies in Australia ODI Series
+744,West Indies in Australia T20I Series
+745,ICC Intercontinental Shield
+746,Kenya in Canada ODI Series
+747,West Indies Women in South Africa ODI Series
+748,West Indies Women in South Africa T20I Series
+749,Australia in New Zealand T20I Series
+750,MCC Spirit of Cricket T20I Series
+751,MCC Spirit of Cricket Test Series
+752,Bangladesh in England Test Series
+753,Pakistan in England Test Series
+754,Pakistan in England T20I Series
+755,Pakistan v New Zealand ODI Series
+756,Pakistan v New Zealand T20I Series
+757,Sri Lanka in India Test Series
+758,Sri Lanka in India T20I Series
+759,India in Bangladesh Test Series
+760,South Africa in West Indies T20I Series
+761,South Africa in West Indies ODI Series
+762,South Africa in West Indies Test Series
+763,Pakistan v England T20I Series
+764,South Africa in India ODI Series
+765,Sri Lanka in Australia ODI Series
+766,England in Australia T20I Series
+767,England in Australia ODI Series
+768,Bangladesh in Ireland ODI Series
+769,Zimbabwe Triangular Series
+770,Sri Lanka Triangular Series
+771,New Zealand v Sri Lanka T20I Series
+772,ICC World Cricket League Americas Region Division One
+773,ICC World Cricket League Americas Region Division One Twenty20
+774,Pakistan v South Africa T20I Series
+775,Pakistan v South Africa ODI Series
+776,Pakistan v South Africa Test Series
+777,Zimbabwe in South Africa T20I Series
+778,India in South Africa Test Series
+779,Netherlands in Ireland ODI Series
+780,Ireland in Canada ODI Series
+781,West Indies in Sri Lanka Test Series
+782,West Indies in Sri Lanka ODI Series
+783,Pakistan in New Zealand T20I Series
+784,Pakistan in New Zealand ODI Series
+785,Sri Lanka in England Test Series
+786,Pataudi Trophy
+787,New Zealand in Bangladesh ODI Series
+788,NatWest Women's T20 Quadrangular Series
+789,Sri Lanka in South Africa Test Series
+790,Australia in Sri Lanka T20I Series
+791,Australia in Sri Lanka ODI Series
+792,Warne-Muralitharan Trophy
+793,India in Australia T20I Series
+794,Zimbabwe in New Zealand ODI Series
+795,Zimbabwe in New Zealand T20I Series
+796,South Africa in New Zealand T20I Series
+797,England in Sri Lanka Test Series
+798,Pakistan in Zimbabwe ODI Series
+799,Pakistan in Zimbabwe T20I Series
+800,New Zealand in Zimbabwe T20I Series
+801,New Zealand in Zimbabwe ODI Series
+802,England Women in South Africa ODI Series
+803,England Women in South Africa T20I Series
+804,England Women in New Zealand T20I Series
+805,MiWAY T20 Challenge
+806,Pakistan v Sri Lanka Test Series
+807,Pakistan v Sri Lanka ODI Series
+808,Pakistan v England Test Series
+809,Pakistan v England ODI Series
+810,West Indies in Bangladesh ODI Series
+811,West Indies in Bangladesh Test Series
+812,West Indies in India Test Series
+813,Pakistan in Bangladesh ODI Series
+814,Pakistan in Bangladesh Test Series
+815,Australia in West Indies T20I Series
+816,India Women in England T20I Series
+817,India Women in England ODI Series
+818,Ireland in Kenya T20I Series
+819,West Indies Women in England T20I Series
+820,New Zealand v West Indies T20I Series
+821,New Zealand in West Indies ODI Series
+822,New Zealand in West Indies Test Series
+823,Pakistan in Sri Lanka T20I Series
+824,New Zealand in India T20I Series
+825,Pakistan Women in England T20I Series
+826,New Zealand in England T20I Series
+827,RSA Challenge
+828,Bangladesh in Ireland T20I Series
+829,Bangladesh in Netherlands T20I Series
+830,New Zealand in South Africa T20I Series
+831,New Zealand in South Africa Test Series
+832,Pakistan in South Africa Test Series
+833,Pakistan in South Africa T20I Series
+834,Pakistan v Australia ODI Series
+835,Pakistan v Australia T20I Series
+836,ICC World Cricket League Division Eight
+837,HRV Cup
+838,New Zealand in Sri Lanka ODI Series
+839,South Africa Women in West Indies T20I Series
+840,Pakistan in India T20I Series
+841,Canada v Kenya T20I Series
+842,Twenty20 Quadrangular (in Namibia)
+843,Zimbabwe in West Indies T20I Series
+844,Clive Lloyd Trophy
+845,West Indies Tri-Nation Series
+846,Pakistan in Scotland ODI Series
+847,Pakistan in Ireland ODI Series
+848,West Indies Women in Sri Lanka ODI Series
+849,West Indies Women in Sri Lanka T20I Series
+850,Bangladesh in Zimbabwe T20I Series
+851,Bangladesh in Zimbabwe Test Series
+852,Pakistan Women in England ODI Series
+853,South Africa in Sri Lanka ODI Series
+854,South Africa in Sri Lanka T20I Series
+855,England in West Indies T20I Series
+856,Bangladesh tour of Australia
+857,South Africa tour of England and Ireland
+858,ICC Women's World Twenty20 Qualifier
+859,Pakistan Women in Ireland ODI Series
+860,Australia tour of Zimbabwe
+861,England tour of Zimbabwe
+862,Pakistan v Sri Lanka T20I Series
+863,Cherry Blossom Sharjah Cup
+864,Pakistan in Zimbabwe Test Series
+865,West Indies in New Zealand Test Series
+866,TVS Cup (Bangladesh)
+867,Bank Alfalah Cup
+868,TVS Cup (India)
+869,Videocon Cup
+870,Paktel Cup
+871,Bangladesh Women in South Africa T20I Series
+872,Bangladesh Women in South Africa ODI Series
+873,HRV Twenty20
+874,India in England ODI Series
+875,Sri Lanka in England ODI Series
+876,Sri Lanka Women in South Africa ODI Series
+877,Sri Lanka Women in South Africa T20I Series
+878,World T20
+879,Women's World T20
+880,Sri Lanka in Bangladesh T20I Series
+881,LV= County Championship
+882,South Africa Women in England T20I Series
+883,PCB Qatar Women's 20-over Tri-Series
+884,Ireland in West Indies T20I Series
+885,Sri Lanka tour of England and Ireland
+886,Pakistan v Australia Test Series
+887,Scotland in Ireland ODI Series
+888,South Africa in Sri Lanka Test Series
+889,New Zealand in West Indies T20I Series
+890,Asian Cricket Council Premier League
+891,Pakistan v New Zealand Test Series
+892,New Zealand in England ODI Series
+893,Australia in England ODI Series
+894,Asian Cricket Council Elite League
+895,Sri Lanka in New Zealand Test Series
+896,Carlton Mid One-Day International Tri-Series
+897,Pakistan Women in Australia T20I Series
+898,West Indies Women in Australia T20I Series
+899,West Indies Women in Australia ODI Series
+900,South Africa Women in Sri Lanka ODI Series
+901,South Africa Women in Sri Lanka T20I Series
+902,Zimbabwe in Bangladesh Test Series
+903,Australia Women in Ireland T20I Series
+904,Hong Kong v Nepal T20I Series
+905,Pakistan Women v Sri Lanka Women T20I Series
+906,Dubai Triangular Series
+907,ACC Twenty20 Cup
+908,South Africa in Bangladesh T20I Series
+909,Pakistan Women v South Africa Women T20I Series
+910,Zimbabwe in Pakistan T20I Series
+911,New Zealand Women in India ODI Series
+912,Hong Kong tour of Namibia
+913,Nepal in Netherlands T20I Series
+914,Scotland in Ireland T20I Series
+915,Pakistan Women in West Indies T20I Series
+916,India Women in Australia T20I Series
+917,India in Australia ODI Series
+918,South Africa in India T20I Series
+919,Freedom Trophy
+920,ICC World Cricket League Division Six
+921,Sri Lanka in Ireland ODI Series
+922,Pakistan in England ODI Series
+923,Sobers/Tissera Trophy
+924,West Indies in Sri Lanka T20I Series
+925,Ireland in Zimbabwe ODI Series
+926,Bangladesh Women in Pakistan T20I Series
+927,Bangladesh Women in Pakistan ODI Series
+928,Oman tour of United Arab Emirates
+929,Hong Kong v Oman T20I Series
+930,Zimbabwe in Bangladesh T20I Series
+931,New Zealand Women in South Africa ODI Series
+932,Sri Lanka in South Africa T20I Series
+933,Zimbabwe Women tour of Bangladesh
+934,Scotland in Hong Kong T20I Series
+935,Papua New Guinea v Ireland T20I Series
+936,Ireland in United Arab Emirates T20I Series
+937,Walton T20 Cricket Series
+938,South Africa Women in Ireland ODI Series
+939,Bangladesh Women in Ireland T20I Series
+940,Stan Nagaiah Trophy
+941,Women's T20 Blaze
+942,T20 Blaze
+943,CG United Women's Super50

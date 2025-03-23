@@ -1,0 +1,828 @@
+venue_id,venue
+1,Western Australia Cricket Association Ground
+2,Bellerive Oval
+3,Adelaide Oval
+4,"Brisbane Cricket Ground, Woolloongabba"
+5,Melbourne Cricket Ground
+6,Sydney Cricket Ground
+7,"Simonds Stadium, South Geelong"
+8,Manuka Oval
+9,"Civil Service Cricket Club, Stormont, Belfast"
+10,New Strabane Park
+11,"The Vineyard, Dublin"
+12,"Observatory Lane, Rathmines, Dublin"
+13,"The Lawn, Waringstown"
+14,"The Green, Comber"
+15,"New Wanderers Stadium, Johannesburg"
+16,"Kingsmead, Durban"
+17,"Boland Park, Paarl"
+18,"Willowmoore Park, Benoni"
+19,"Mangaung Oval, Bloemfontein"
+20,"Senwes Park, Potchefstroom"
+21,"St George's Park, Port Elizabeth"
+22,"SuperSport Park, Centurion"
+23,"Diamond Oval, Kimberley"
+24,"Newlands, Cape Town"
+25,"Buffalo Park, East London"
+26,Amini Park
+27,VRA Ground
+28,Gymkhana Club Ground
+29,"Grange Cricket Club Ground, Raeburn Place"
+30,"Bready Cricket Club, Magheramason"
+31,Harare Sports Club
+32,"Daren Sammy National Cricket Stadium, Gros Islet"
+33,Providence Stadium
+34,"Kensington Oval, Bridgetown"
+35,"Sabina Park, Kingston"
+36,Hagley Oval
+37,Saxton Oval
+38,McLean Park
+39,Bay Oval
+40,Basin Reserve
+41,Seddon Park
+42,Eden Park
+43,Westpac Stadium
+44,University Oval
+45,Kennington Oval
+46,Edgbaston
+47,Sophia Gardens
+48,"Sir Vivian Richards Stadium, North Sound"
+49,"Darren Sammy National Cricket Stadium, Gros Islet"
+50,"Queen's Park Oval, Port of Spain"
+51,Sydney Showground Stadium
+52,Docklands Stadium
+53,North Sydney Oval
+54,North Sydney Oval No.2
+55,Lavington Sports Oval
+56,Queen Elizabeth II Oval
+57,Casey Fields No. 4
+58,Howell Oval
+59,W.A.C.A. Ground
+60,Allan Border Field
+61,Hurstville Oval
+62,Blacktown International Sportspark
+63,Camberwell Sports Ground
+64,Queens Sports Club
+65,"Warner Park, Basseterre"
+66,"Mission Road Ground, Mong Kok"
+67,County Ground
+68,Lord's
+69,Shere Bangla National Stadium
+70,Zahur Ahmed Chowdhury Stadium
+71,Green Park
+72,Eden Gardens
+73,Holkar Cricket Stadium
+74,Himachal Pradesh Cricket Association Stadium
+75,Feroz Shah Kotla
+76,"Punjab Cricket Association Stadium, Mohali"
+77,JSCA International Stadium Complex
+78,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+79,Headingley
+80,The Rose Bowl
+81,Trent Bridge
+82,Old Trafford
+83,Riverside Ground
+84,Malahide
+85,Clontarf Cricket Club Ground
+86,Garon Park
+87,Saurashtra Cricket Association Stadium
+88,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+89,Wankhede Stadium
+90,"MA Chidambaram Stadium, Chepauk"
+91,Maharashtra Cricket Association Stadium
+92,Barabati Stadium
+93,"Vidarbha Cricket Association Stadium, Jamtha"
+94,M Chinnaswamy Stadium
+95,"County Ground, Chelmsford"
+96,"Traeger Park, Alice Springs"
+97,Sheikh Kamal International Cricket Stadium
+98,Central Broward Regional Park Stadium Turf Ground
+99,"Rajiv Gandhi International Stadium, Uppal"
+100,International Sports Stadium
+101,Rangiri Dambulla International Stadium
+102,Khettarama Stadium
+103,Sinhalese Sports Club Ground
+104,Skarpnack 1
+105,Skarpnack 2
+106,Johor Cricket Academy Oval
+107,Dubai International Cricket Stadium
+108,Sheikh Zayed Stadium
+109,Sharjah Cricket Stadium
+110,Bert Sutcliffe Oval
+111,Eden Park No 2
+112,Cello Basin Reserve
+113,Kennards Hire Community Oval
+114,University of Otago Oval
+115,Nelson Park
+116,Mainpower Oval
+117,Colin Maiden Park
+118,Cobham Oval
+119,Jaffery Sports Club Ground
+120,R Premadasa Stadium
+121,"Wright Cricket Field, Woodley Park"
+122,"Severn Cricket Field, Woodley Park"
+123,"Wong Cricket Field, Woodley Park"
+124,"Shere Bangla National Stadium, Mirpur"
+125,"Zahur Ahmed Chowdhury Stadium, Chittagong"
+126,Sano International Cricket Ground
+127,Aurora Stadium
+128,Lilac Hill Park
+129,Asian Institute of Technology Ground
+130,College Ground
+131,"County Ground, New Road"
+132,Queen's Park
+133,Arundel Castle Cricket Club Ground
+134,Aigburth
+135,The Kent County Cricket Ground
+136,Uxbridge Cricket Club Ground
+137,St Lawrence Ground
+138,Old Deer Park
+139,Grace Road
+140,The Cooper Associates County Ground
+141,"County Ground, Northampton"
+142,"Lord's, London"
+143,"County Ground, New Road, Worcester"
+144,"County Ground, Bristol"
+145,"St Lawrence Ground, Canterbury"
+146,"Riverside Ground, Chester-le-Street"
+147,"Old Trafford, Manchester"
+148,"County Ground, Taunton"
+149,"Trent Bridge, Nottingham"
+150,"County Ground, Derby"
+151,"Sophia Gardens, Cardiff"
+152,"Grace Road, Leicester"
+153,"County Ground, Hove"
+154,"Edgbaston, Birmingham"
+155,"Headingley, Leeds"
+156,"Kennington Oval, London"
+157,"The Rose Bowl, Southampton"
+158,"Roseworth Terrace, Gosforth"
+159,"Aigburth, Liverpool"
+160,"Welbeck Colliery Cricket Club Ground, Market Warsop"
+161,"Radlett Cricket Club, Radlett"
+162,"Stanley Park, Blackpool"
+163,"The Saffrons, Eastbourne"
+164,"St Helen's, Swansea"
+165,"Trafalgar Road Ground, Southport"
+166,"Woodbridge Road, Guildford"
+167,"North Marine Road Ground, Scarborough"
+168,"Queen's Park, Chesterfield"
+169,"College Ground, Cheltenham"
+170,"Kent County Cricket Ground, Beckenham"
+171,"Penrhyn Avenue, Rhos-on-Sea, Colwyn Bay"
+172,Tribhuvan University International Cricket Ground
+173,Perth Stadium
+174,P Sara Oval
+175,Mercantile Cricket Association Ground
+176,Nondescripts Cricket Club Ground
+177,Colombo Cricket Club Ground
+178,Senwes Park
+179,Mangaung Oval
+180,Diamond Oval
+181,Boland Park
+182,Buffalo Park
+183,Kingsmead
+184,St George's Park
+185,Newlands
+186,The Wanderers Stadium
+187,Gaddafi Stadium
+188,"Windsor Park, Roseau"
+189,ICC Global Cricket Academy
+190,Dower Park
+191,Canterbury Park
+192,White Hills Oval
+193,Strathfieldsaye
+194,M.Chinnaswamy Stadium
+195,Galle International Stadium
+196,"North Sydney Oval, Sydney"
+197,Willowmoore Park
+198,Willowmoore Park B Field
+199,Willowmoore Park C Field
+200,Royal Chiangmai Golf Club
+201,Prem Tinsulanonda International School
+202,Gymkhana Club
+203,North-West University No1 Ground
+204,"Church of Ireland Young Men's Society Cricket Club Ground, Belfast"
+205,"Bready Cricket Club, Magheramason, Bready"
+206,"Merrion Cricket Club Ground, Dublin"
+207,"Instonians Cricket Club, Shaw's Bridge Lower Ground, Belfast"
+208,"Woodvale Road, Eglinton"
+209,"Mardyke, Cork"
+210,Lugogo Cricket Oval
+211,Entebbe Cricket Oval
+212,Kyambogo Cricket Oval
+213,"The Cooper Associates County Ground, Taunton"
+214,"Haslegrave Ground, Loughborough"
+215,"Clifton Park Ground, York"
+216,"Brian Lara Stadium, Tarouba"
+217,Sportpark Duivesteijn
+218,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+219,"R.Premadasa Stadium, Khettarama"
+220,"The Village, Malahide"
+221,Wanderers Cricket Ground
+222,Pallekele International Cricket Stadium
+223,"Simonds Stadium, South Geelong, Victoria"
+224,Traeger Park
+225,Cobham Oval (New)
+226,New Williamfield No1 Oval
+227,Willowmoore Park A Field
+228,Gliderol Stadium
+229,North Dalton Park
+230,Harrup Park
+231,Eden Park Outer Oval
+232,Molyneux Park
+233,Pukekura Park
+234,"Allan Border Field, Brisbane"
+235,"Cazaly's Stadium, Cairns"
+236,"Western Australia Cricket Association Ground, Perth"
+237,"Bellerive Oval, Hobart"
+238,"Gliderol Stadium, Adelaide"
+239,Barsapara Cricket Stadium
+240,Arun Jaitley Stadium
+241,Greenfield International Stadium
+242,Affies Park
+243,Terdthai Cricket Ground
+244,Sylhet International Cricket Stadium
+245,SuperSport Park
+246,Coolidge Cricket Ground
+247,ICC Academy
+248,"Grange Cricket Club, Raeburn Place"
+249,"Nevill Ground, Tunbridge Wells"
+250,"Merchant Taylors' School Ground, Northwood"
+251,Oakham School Ground
+252,National Stadium
+253,Shaheed Veer Narayan Singh International Stadium
+254,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium
+255,Dr P.V.G. Raju ACA Sports Complex
+256,Reliance Stadium
+257,Brabourne Stadium
+258,Old Hararians Sports Club
+259,Old Hararians
+260,Bulawayo Athletic Club
+261,Kwekwe Sports Club
+262,"JU Second Campus, Salt Lake"
+263,United Cricket Club Ground
+264,Punjab Cricket Association IS Bindra Stadium
+265,Rajiv Gandhi International Stadium
+266,MA Chidambaram Stadium
+267,Sawai Mansingh Stadium
+268,"Pembroke Cricket Club, Sandymount, Dublin"
+269,Sulabiya Ground
+270,Tack-Tec Ground
+271,Hazelaarweg
+272,Sportpark Het Schootsveld
+273,Tafawa Balewa Square Cricket Oval
+274,Kinrara Academy Oval
+275,Royal Selangor Club
+276,UKM-YSD Cricket Oval
+277,UKM Cricket Oval
+278,Kinrara Oval
+279,Karen Rolton Oval
+280,Junction Oval
+281,Carrara Oval
+282,YMCA Cricket Club
+283,The Vineyard
+284,"The Village, Malahide, Dublin"
+285,"Pembroke Cricket Club, Sandymount"
+286,Sir Vivian Richards Stadium
+287,"Wankhede Stadium, Mumbai"
+288,Sportpark Maarschalkerweerd
+289,"Brisbane Cricket Ground, Woolloongabba, Brisbane"
+290,"Junction Oval, Melbourne"
+291,"Karen Rolton Oval, Adelaide"
+292,Gahanga International Cricket Stadium. Rwanda
+293,Geelong Cricket Ground
+294,Ted Summerton Reserve
+295,West Park Oval
+296,Eastern Oval
+297,Bankstown Oval
+298,Cazaly's Stadium
+299,Drummoyne Oval
+300,"Basin Reserve, Wellington"
+301,Albert Park 1
+302,Albert Park 2
+303,Sportpark Het Schootsveld 2
+304,Sportpark Westvliet
+305,"VRA Ground, Amstelveen"
+306,Sportpark Thurlede
+307,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu"
+308,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -CP Ground,Mulapadu"
+309,Lalbhai Contractor Stadium
+310,C B Patel Ground
+311,Holkar Stadium
+312, Emerald Heights International School Ground
+313,DRIEMS Ground
+314,"Airforce Complex ground, Palam"
+315,"Airforce Complex ground, Palam II"
+316,"City Oval, Pietermaritzburg"
+317,Church Street Park
+318,Chilaw Marians Cricket Club Ground
+319,Colts Cricket Club Ground
+320,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium
+321,"Kensington Oval, Barbados"
+322,"Sir Vivian Richards Stadium, Antigua"
+323,"Daren Sammy National Cricket Stadium, St Lucia"
+324,"National Cricket Stadium, Grenada"
+325,"Darren Sammy National Cricket Stadium, St Lucia"
+326,"Warner Park, St Kitts"
+327,Botswana Cricket Association Oval 1
+328,Botswana Cricket Association Oval 2
+329,"Botswana Cricket Association Oval 1, Gaborone"
+330,Hong Kong Cricket Club
+331,Bayuemas Oval
+332,Tolerance Oval
+333,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+334,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)
+335,Friendship Oval
+336,"New Close County Cricket Ground, Newport, Isle-of-Wight"
+337,"The John Fretwell Sporting Complex, Nettleworth"
+338,York Cricket Club
+339,"Spytty Park, Newport"
+340,"Chester Road North Ground, Kidderminster"
+341,Sedbergh School
+342,Colwyn Bay Cricket Club Ground
+343,Radlett Cricket Club
+344,"Boughton Hall Cricket Club Ground, Chester"
+345,Castle Avenue
+346,"Civil Service Cricket Club, Stormont"
+347,Bready
+348,"Zahur Ahmed Chowdhury Stadium, Chattogram"
+349,Southend Club Cricket Stadium
+350,FTZ Sports Complex (BOI)
+351,LC de Villiers Oval
+352,City Oval
+353,La Manga Club Top Ground
+354,"Sawai Mansingh Stadium, Jaipur"
+355,Takashinga Sports Club
+356,"Ground 1, Independence Park"
+357,"Ground 2, Independence Park"
+358,Sydney Parade
+359,King George V Sports Ground
+360,College Field
+361,Invermay Park
+362,Nuriootpa Centennial Park
+363,"Providence Stadium, Guyana"
+364,"Queen's Park Oval, Trinidad"
+365,"Sabina Park, Jamaica"
+366,Indian Association Ground
+367,"Drummoyne Oval, Sydney"
+368,"Bankstown Oval, Sydney"
+369,Mannofield Park
+370,Forthill
+371,Lochlands
+372,Yeonhui Cricket Ground
+373,"White Hill Field, Sandys Parish"
+374,Bermuda National Stadium
+375,"Coolidge Cricket Ground, Antigua"
+376,Lalabhai Contractor Stadium
+377,ICC Academy Ground No 2
+378,Selangor Turf Club
+379,La Manga Club Bottom Ground
+380,St'Xavier's KCA Cricket Ground
+381,Greenfield Stadium
+382,"Cricket Stadium, Sector-16"
+383,"GSSS, Sector 26"
+384,BKC Ground
+385,Rawalpindi Cricket Stadium
+386,Desert Springs Cricket Ground
+387,Pokhara Rangasala
+388,Multan Cricket Stadium
+389,"National Stadium, Karachi"
+390,Brisbane Cricket Ground
+391,"Brunton Memorial Ground, Radlett"
+392,"Brian Lara Stadium, Tarouba, Trinidad"
+393,"Queen's Park Oval, Port of Spain, Trinidad"
+394,"Seebarn Cricket Centre, Lower Austria"
+395,Seebarn Cricket Centre
+396,Pierre Werner Cricket Ground
+397,"Park 25 No 2, Adelaide"
+398,Sky Stadium
+399,"Pukekura Park, New Plymouth"
+400,"Seddon Park, Hamilton"
+401,"Eden Park Outer Oval, Auckland"
+402,"Bay Oval, Mount Maunganui"
+403,"Hagley Oval, Christchurch"
+404,"Mainpower Oval, Rangiora"
+405,"Saxton Oval, Nelson"
+406,"Molyneux Park, Alexandra"
+407,"McLean Park, Napier"
+408,"Cobham Oval (New), Whangarei"
+409,"Queen's Park, Invercargill"
+410,"University Oval, Dunedin"
+411,Moara Vlasiei Cricket Ground
+412,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota"
+413,Narendra Modi Stadium
+414,"Eden Park, Auckland"
+415,Alur Cricket Stadium
+416,Alur Cricket Stadium II
+417,Alur Cricket Stadium III
+418,Jadavpur University Campus
+419,Motibaug Cricket Ground
+420,F B Colony Ground
+421,Reliance Cricket Stadium
+422,Sharad Pawar Cricket Academy BKC
+423,SSN College Ground
+424,T I Murugappa Ground
+425,Sri Ramachandra Medical College
+426,IC-Gurunanak College Ground
+427,"Narendra Modi Stadium Ground 'A', Motera"
+428,"Sheikh Zayed Stadium, Abu Dhabi"
+429,"The Cricket Field, Sedbergh School"
+430,Welbeck Abbey Cricket Ground
+431,"Gorse Lane, Grantham"
+432,"North Dalton Park, Wollongong"
+433,"The Wanderers Stadium, Johannesburg"
+434,"Sportpark Maarschalkerweerd, Utrecht"
+435,Kibworth Cricket Club Ground
+436,"FP Fenner's Ground, Cambridge"
+437,"Rookwood, Sale"
+438,"Edgbaston Foundation Community Sports Ground, Birmingham"
+439,Bharat Ratna Shri Atal Bihari Vajpai Ekana Cricket Stadium
+440,"MA Chidambaram Stadium, Chepauk, Chennai"
+441,"Narendra Modi Stadium, Ahmedabad"
+442,"Arun Jaitley Stadium, Delhi"
+443,"Zayed Cricket Stadium, Abu Dhabi"
+444,"Kensington Oval, Bridgetown, Barbados"
+445,"Sir Vivian Richards Stadium, North Sound, Antigua"
+446,"National Cricket Stadium, St George's, Grenada"
+447,Wanderers
+448,"Wanderers Cricket Ground, Windhoek"
+449,"Tribhuvan University International Cricket Ground, Kirtipur"
+450,"Hazelaarweg, Rotterdam"
+451,Sher-e-Bangla National Cricket Stadium
+452,"R Premadasa Stadium, Colombo"
+453,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia"
+454,"Sabina Park, Kingston, Jamaica"
+455,"Manuka Oval, Canberra"
+456,"Ray Mitchell Oval, Harrup Park, Mackay"
+457,"Scott Page Field, Vinor"
+458,"National Sports Academy, Sofia"
+459,Marsa Sports Club
+460,Bayer Uerdingen Cricket Ground
+461,"Invermay Park, Launceston"
+462,"Aurora Stadium, Launceston"
+463,"University Oval, Hobart"
+464,"Lilac Hill Park, Perth"
+465,"Docklands Stadium, Melbourne"
+466,"GMHBA Stadium, South Geelong, Victoria"
+467,"International Sports Stadium, Coffs Harbour"
+468,"Warner Park, Basseterre, St Kitts"
+469,"Castle Avenue, Dublin"
+470,"Takashinga Sports Club, Highfield, Harare"
+471,"Svanholm Park, Brondby"
+472,Gucherre Cricket Ground
+473,Kerava National Cricket Ground
+474,"Grange Cricket Club Ground, Raeburn Place, Edinburgh"
+475,"Desert Springs Cricket Ground, Almeria"
+476,Guttsta Wicked Cricket Club
+477,"Botswana Cricket Association Oval 2, Gaborone"
+478,"Moara Vlasiei Cricket Ground, Ilfov County"
+479,"JSCA International Stadium Complex, Ranchi"
+480,"Eden Gardens, Kolkata"
+481,"Green Park, Kanpur"
+482,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh"
+483,"M Chinnaswamy Stadium, Bengaluru"
+484,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+485,"Himachal Pradesh Cricket Association Stadium, Dharamsala"
+486,"Barabati Stadium, Cuttack"
+487,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam"
+488,"Saurashtra Cricket Association Stadium, Rajkot"
+489,"M Chinnaswamy Stadium, Bangalore"
+490,Happy Valley Ground
+491,"Bert Sutcliffe Oval, Lincoln"
+492,"Fitzherbert Park, Palmerston North"
+493,"ICC Academy, Dubai"
+494,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium B
+495,"ACA Stadium, Barsapara"
+496,Nehru Stadium
+497,Gurugram Cricket Ground (SRNCC)
+498,Chaudhry Bansi Lal Cricket Stadium
+499,Gokaraju Liala Gangaaraju ACA Cricket Ground
+500,"ACA Stadium,Mangalagiri"
+501,Alembic 2  Cricket Ground
+502,"Reforma Athletic Club, Naucalpan"
+503,Integrated Polytechnic Regional Centre
+504,University of Lagos Cricket Oval
+505,"West End Park International Cricket Stadium, Doha"
+506,"Old Hararians, Harare"
+507,"Sunrise Sports Club, Harare"
+508,"ICC Academy Ground No 2, Dubai"
+509,"Gaddafi Stadium, Lahore"
+510,"Queens Sports Club, Bulawayo"
+511,"John Davies Oval, Queenstown"
+512,"Central Broward Regional Park Stadium Turf Ground, Lauderhill"
+513,"Kinrara Academy Oval, Kuala Lumpur"
+514,"Mitchells and Butlers' Ground, Birmingham"
+515,"The Gnoll, Neath"
+516,"Brabourne Stadium, Mumbai"
+517,"Dr DY Patil Sports Academy, Mumbai"
+518,"Maharashtra Cricket Association Stadium, Pune"
+519,"United Cricket Club Ground, Windhoek"
+520,"College Field, St Peter Port"
+521,"Centre for Cricket Development Ground, Windhoek"
+522,"Sportpark Westvliet, The Hague"
+523,"Southend Club Cricket Stadium, Karachi"
+524,"Malek Cricket Ground, Ajman"
+525,"Choice Moosa Stadium, Pearland"
+526,"Moosa Cricket Stadium, Pearland"
+527,"Windsor Park, Roseau, Dominica"
+528,"Tony Ireland Stadium, Townsville"
+529,"Riverway Stadium, Townsville"
+530,"Lugogo Cricket Oval, Kampala"
+531,"Kyambogo Cricket Ground, Kampala"
+532,"UKM-YSD Cricket Oval, Bangi"
+533,"Meersen, Gent"
+534,"Royal Brussels Cricket Club Ground, Waterloo"
+535,"Grainville, St Saviour"
+536,Tikkurila Cricket Ground
+537,"Indian Association Ground, Singapore"
+538,"Sportpark Harga, Schiedam"
+539,"Sportpark Westvliet, Voorburg"
+540,"Cambusdoon New Ground, Ayr"
+541,"Titwood, Glasgow"
+542,"Mannofield Park, Aberdeen"
+543,"Lavington Sports Oval, Albury"
+544,Lisicji Jarak Cricket Ground
+545,"Blacktown International Sportspark, Sydney"
+546,"Great Barrier Reef Arena, Mackay"
+547,"Eastern Oval, Ballarat"
+548,"Latrobe Recreation Ground, Latrobe"
+549,"Ted Summerton Reserve, Moe"
+550,"University of Tasmania Stadium, Launceston"
+551,"Maple Leaf North-West Ground, King City"
+552,"Maple Leaf North-East Ground, King City"
+553,"Farmers Cricket Club Ground, St Martin"
+554,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur"
+555,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
+556,"Greenfield International Stadium, Thiruvananthapuram"
+557,"Barsapara Cricket Stadium, Guwahati"
+558,"Holkar Cricket Stadium, Indore"
+559,"Gymkhana Club Ground, Nairobi"
+560,Fitzherbert Park
+561,"Amini Park, Port Moresby"
+562,"Tolerance Oval, Abu Dhabi"
+563,"Jadavpur University Campus 2nd Ground, Kolkata"
+564,"Independence Park, Port Vila"
+565,"Sylhet International Cricket Stadium, Academy Ground"
+566,Kaizuka Cricket Ground
+567,"St George's Park, Gqeberha"
+568,"Bayuemas Oval, Kuala Lumpur"
+569,"Sir Paul Getty's Ground, Wormsley"
+570,"Millfield School, Street"
+571,"Enborne Lodge, Newbury"
+572,"The John Fretwell Sporting Complex, Sookholme"
+573,Kibworth Cricket Club New Ground
+574,"Shaheed Veer Narayan Singh International Stadium, Raipur"
+575,"Gahanga International Cricket Stadium, Rwanda"
+576,Morodok Techo National Stadium
+577,"St Albans Club, Buenos Aires"
+578,"Belgrano Athletic Club Ground, Buenos Aires"
+579,"Hurlingham Club Ground, Buenos Aires"
+580,"Mission Road Ground, Mong Kok, Hong Kong"
+581,Tafawa Balewa Square (TBS) Cricket Oval
+582,"Terdthai Cricket Ground, Bangkok"
+583,Kowloon Cricket Club
+584,Santarem Cricket Ground
+585,Europa Sports Complex
+586,Mulpani Cricket Ground
+587,"P Sara Oval, Colombo"
+588,"Sinhalese Sports Club Ground, Colombo"
+589,"Solvangs Park, Glostrup"
+590,"Sedgars Park, Potchefstroom"
+591,"The Hills, Milverton"
+592,"YSD-UKM Cricket Oval, Bangi"
+593,"Grainville, St Saviour, Jersey"
+594,"FB Fields, St Clement"
+595,Grand Prairie Stadium
+596,"Church Street Park, Morrisville"
+597,"Sportpark Het Schootsveld, Deventer"
+598,"Goldenacre, Edinburgh"
+599,"Abhimanyu Cricket Academy, Dehradun"
+600,"Malahide, Dublin"
+601,"Cricket Central, Sydney"
+602,"Casey Fields No 4, Melbourne"
+603,"Jubilee Park, Ringwood, Melbourne"
+604,"Sky Stadium, Wellington"
+605,"GB Oval, Szodliget"
+606,Turf City B Cricket Ground
+607,Vanuatu Cricket Ground
+608,"Selangor Turf Club, Kuala Lumpur"
+609,Vanuatu Cricket Ground (Oval 2)
+610,"Woodley Cricket Field, Los Angeles"
+611,Zhejiang University of Technology Cricket Field
+612,"National Stadium, Hamilton"
+613,"Tafawa Balewa Square Cricket Oval, Lagos"
+614,San Albano
+615,St Georges Quilmes
+616,Udayana Cricket Ground
+617,"Royal Brunswick Ground, Hove, Brighton"
+618,Rugby School Ground
+619,"Grand Prairie Stadium, Dallas"
+620,"Nassau County International Cricket Stadium, New York"
+621,"Arnos Vale Ground, Kingstown, St Vincent"
+622,"Royal Selangor Club, Kuala Lumpur"
+623,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur"
+624,University of Doha for Science and Technology
+625,"Achimota Senior Secondary School A Field, Accra"
+626,"Achimota Senior Secondary School B Field, Accra"
+627,Prairie View Cricket Complex
+628,"New County Ground, Hove, Brighton"
+629,"Whitegate Park, Blackpool"
+630,"Lindum Sports Club Ground, Lincoln"
+631,"Racecourse Ground, Derby"
+632,"Old Edwardians Cricket Club Ground, Solihull"
+633,Los Reyes Polo Club
+634,"Forthill, Dundee"
+635,"7he Sevens Stadium, Dubai"
+636,Oak Hill Cricket Club
+637,Dreux Sport Cricket Club
+638,"Gahanga B Ground, Rwanda"
+639,Roma Cricket Ground
+640,"Simar Cricket Ground, Rome"
+641,"Shrimant Madhavrao Scindia Cricket Stadium, Gwalior"
+642,"King George V Sports Ground, Castel"
+643,"Guernsey Rovers Athletic Club Ground, Port Soif"
+644,"Sikh Union Club Ground, Nairobi"
+645,"Mladost Cricket Ground, Zagreb"
+646,"Faleata Oval No 2, Apia"
+647,"Ekeberg Cricket Ground 1, Oslo"
+648,"Ekeberg Cricket Ground 2, Oslo"
+649,"KSCA Cricket Ground, Alur"
+650,Koge Cricket Club
+651,Koge Cricket Club 2
+652,"Gymkhana Club Ground, Dar-es-Salaam"
+653,University of Dar-es-Salaam Ground
+654,"Yeonhui Cricket Ground, Incheon"
+655,"Marina Ground, Corfu"
+656,"Ruaraka Sports Club Ground, Nairobi"
+657,Sao Fernando Polo and Cricket Club
+658,Gelephu International Cricket Ground
+659,"TCA Oval, Blantyre"
+660,Singapore National Cricket Ground
+661,Jinja Cricket Ground
+662,Sylhet Stadium
+663,"Nigeria Cricket Federation Oval 1, Abuja"
+664,"Nigeria Cricket Federation Oval 2, Abuja"
+665,Las Caballerizas
+666,"Dr DY Patil Sports Academy, Navi Mumbai"
+667,"Kotambi Stadium, Vadodara"
+668,"St George's College Ground, Buenos Aires"
+669,Kensington Oval
+670,Antigua Recreation Ground
+671,"Arnos Vale Ground, Kingstown"
+672,R.Premadasa Stadium
+673,New Wanderers Stadium
+674,Vidarbha C.A. Ground
+675,"Sardar Patel (Gujarat) Stadium, Motera"
+676,Madhavrao Scindia Cricket Ground
+677,Iqbal Stadium
+678,Sardar Patel Stadium
+679,John Davies Oval
+680,Jade Stadium
+681,Arbab Niaz Stadium
+682,Shaheed Chandu Stadium
+683,Chittagong Divisional Stadium
+684,Khan Shaheb Osman Ali Stadium
+685,Narayanganj Osmani Stadium
+686,Queenstown Events Centre
+687,Nahar Singh Stadium
+688,"Nehru Stadium, Fatorda"
+689,Keenan Stadium
+690,Maharani Usharaje Trust Cricket Ground
+691,Asgiriya Stadium
+692,"Antigua Recreation Ground, St John's"
+693,"Beausejour Stadium, Gros Islet"
+694,"Sinovich Park, Sinoville"
+695,"National Cricket Stadium, St George's"
+696,"Sardar Patel Stadium, Motera"
+697,AMI Stadium
+698,Goodyear Park
+699,Sedgars Park
+700,Ruaraka Sports Club Ground
+701,Indian Petrochemicals Corporation Limited Sports Complex Ground
+702,Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium
+703,Harlequins
+704,Titwood
+705,P Saravanamuttu Stadium
+706,Sector 16 Stadium
+707,Vidarbha Cricket Association Ground
+708,Captain Roop Singh Stadium
+709,Stellenbosch University 1
+710,Stellenbosch University 2
+711,"Bradman Oval, Bowral"
+712,Maple Leaf North-West Ground
+713,Cambusdoon New Ground
+714,"Niaz Stadium, Hyderabad"
+715,Sheikhupura Stadium
+716,Dr DY Patil Sports Academy
+717,Marrara Cricket Ground
+718,Welagedara Stadium
+719,OUTsurance Oval
+720,De Beers Diamond Oval
+721,Dubai Sports City Cricket Stadium
+722,Maple Leaf South-West Ground
+723,Zohur Ahmed Chowdhury Stadium
+724,Boland Bank Park
+725,Sea Breeze Oval
+726,Moses Mabhida Stadium
+727,"Toronto Cricket, Skating and Curling Club"
+728,Ovale di Rastignano
+729,Centro Sportivo Dozza
+730,Centro Sportivo Ca'Nova
+731,Chevrolet Park
+732,Stadium Australia
+733,"De Beers Diamond Oval, Kimberley"
+734,"Chevrolet Park, Bloemfontein"
+735,Sir Paul Getty's Ground
+736,Mombasa Sports Club Ground
+737,Subrata Roy Sahara Stadium
+738,Haslegrave Ground
+739,Faleata Oval No 1
+740,Faleata Oval No 3
+741,Faleata Oval No 2
+742,Guanggong International Cricket Stadium
+743,Sheikh Abu Naser Stadium
+744,"Sheikh Abu Naser Stadium, Khulna"
+745,"MA Aziz Stadium, Chittagong"
+746,Louth Cricket Club
+747,Somerset Cricket Club
+748,"Lords, St David's Cricket Club Ground"
+749,"Antigua Recreation Ground, St John's, Antigua"
+750,"Marrara Cricket Ground, Darwin"
+751,"Punjab Cricket Association Stadium, Mohali, Chandigarh"
+752,"Iqbal Stadium, Faisalabad"
+753,"Bangabandhu National Stadium, Dhaka"
+754,Merrion Cricket Club Ground
+755,MA Aziz Stadium
+756,Bangabandhu National Stadium
+757,"Observatory Lane, Rathmines"
+758,"Jade Stadium, Christchurch"
+759,"Davies Park, Queenstown"
+760,"Westpac Stadium, Wellington"
+761,"Westpac Park, Hamilton"
+762,"Queen's Park (New), St George's, Grenada"
+763,"Bundaberg Rum Stadium, Cairns"
+764,Carisbrook
+765,Queen's Park Oval
+766,Daren Sammy National Cricket Stadium
+767,Arnos Vale Ground
+768,National Cricket Stadium
+769,Sinhalese Sports Club
+770,"Goodyear Park, Bloemfontein"
+771,"North West Cricket Stadium, Potchefstroom"
+772,"Boland Bank Park, Paarl"
+773,Sharjah Cricket Association Stadium
+774,Sheikh Zayed Stadium Nursery 1
+775,ICC Academy Oval 2
+776,Abu Dhabi Oval 1
+777,Sheikh Zayed Stadium Nursery 2
+778,ICC Academy Oval 1
+779,Zayed Cricket Stadium
+780,Abu Dhabi Oval 2
+781,"The Royal & Sun Alliance County Ground, Bristol"
+782,"Captain Roop Singh Stadium, Gwalior"
+783,"Nahar Singh Stadium, Faridabad"
+784,"Nehru Stadium, Poona"
+785,"Lal Bahadur Shastri Stadium, Hyderabad, Deccan"
+786,VRA Cricket Ground
+787,"Cricket Field Road Ground, Horsham"
+788,"Castle Park Cricket Ground, Colchester"
+789,Merchant Taylors' School Ground
+790,Castle Park Cricket Ground
+791,"Campbell Park, Milton Keynes"
+792,West End Park International Cricket Stadium
+793,"Clontarf Cricket Club Ground, Dublin"
+794,North Marine Road Ground
+795,Kallang Ground
+796,The Padang
+797,Singapore Cricket Club
+798,Peter Burge Oval
+799,Kerrydale Oval
+800,Bradman Oval
+801,"Nelson Park, Napier"
+802,"Colin Maiden Park, Auckland"
+803,"Karori Park, Wellington"
+804,Nevill Ground
+805,Al Dhaid Cricket Village
+806,The Rose Bowl (Nursery)
+807,Myreside
+808,Goldenacre
+809,Thailand Cricket Ground
+810,Waverley Oval
+811,Adelaide Oval No. 2
+812,VCA Ground
+813,Jawaharlal Nehru Stadium
+814,St  Pauls college ground  Kalamassery
+815,Alembic 1 Cricket Ground
+816,Ashlyns Road
+817,West Mersea Cricket Club
+818,Star Stile
+819,Hare Field
+820,Cricket Field Lane
+821,Kent County Cricket Ground
+822,Tony Ireland Stadium
+823,The Hills Cricket Club Ground
+824,Farmers Cricket Club Ground
+825,FB Fields
+826,Grainville
+827,"Guyana National Stadium, Providence"
