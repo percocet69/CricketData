@@ -1,5 +1,4 @@
 This is a personal project I am working on.
 
-The data required for this project is taken from - https://cricsheet.org/
-
-I have used various Python scripts to transform the JSON files which I have taken from the website to convert it into the match files which I a using for the input data in Streamlit.
+This project uses cricket match data sourced from [Cricsheet](https://cricsheet.org/), which is made available under the Open Data Commons Attribution License (ODC-By) v1.0: https://opendatacommons.org/licenses/by/1-0/.  
+The original data, provided in raw JSON format, has been modified and processed to generate derived inferences and insights.
