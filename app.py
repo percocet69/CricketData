@@ -1,0 +1,26 @@
+import streamlit as st
+from screens.innings_page import show_innings_page
+from screens.summary_page import show_summary_page
+from screens.batsman_page import show_batsman_page
+
+st.set_page_config(page_title="Cricket Match Viewer", layout="wide")
+st.title("Cricket Match Data Viewer")
+
+if "view_section" not in st.session_state:
+    st.session_state.view_section = "summary"
+
+with st.sidebar:
+    st.markdown("### Select Dataset")
+    if st.button("Match Summary Data"):
+        st.session_state.view_section = "summary"
+    if st.button("Match Innings Data"):
+        st.session_state.view_section = "innings"
+    if st.button("Batsman Statistics"):
+        st.session_state.view_section = "batsman"
+
+if st.session_state.view_section == "innings":
+    show_innings_page()
+elif st.session_state.view_section == "summary":
+    show_summary_page()
+elif st.session_state.view_section == "batsman":
+    show_batsman_page()
