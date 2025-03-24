@@ -6,6 +6,8 @@ split_test_data_output_dir = 'SplitTestData'
 # DummyFiles
 match_innings_dir = 'SplitData/match_innings_data.csv'
 match_data_dir = 'SplitData/match_data.csv'
+batsman_stats_dir = 'SplitData/batsman_stats.csv'
+batsman_test_stats_dir = 'SplitTestData/batsman_stats.csv'
 
 # IndicatorFiles
 indicator_city_dir = 'IndicatorData/city.csv'
