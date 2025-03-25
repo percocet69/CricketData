@@ -15,7 +15,7 @@ def enrich_data(df, refs):
         "city": "city", "venue": "venue", "event_name": "event_name", "event_stage": "event_stage",
         "match_type": "match_type", "team_type": "team_type", "team1": "teams", "team2": "teams",
         "toss_winner": "teams", "outcome_winner": "teams", "player_of_match": "players", "batter": "players",
-        "wicket_type": "wicket_type"
+        "wicket_type": "wicket_type", "bowler": "players"
     }
     for field, ref_key in field_to_ref.items():
         id_col, name_col = ref_mappings[ref_key]
