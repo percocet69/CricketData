@@ -10,7 +10,7 @@ st.set_page_config(page_title="Cricket Match Viewer", layout="wide")
 st.title("Cricket Match Data Viewer")
 
 if "view_section" not in st.session_state:
-    st.session_state.view_section = "summary"
+    st.session_state.view_section = "readme"
 
 with st.sidebar:
     st.markdown("### Select Dataset")
