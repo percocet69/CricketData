@@ -50,8 +50,9 @@ def show_readme_page():
     I plan to:
     - Add charts/graphs for visual insights 📈
     - Expand filtering and comparison tools
-    - Improve usability and mobile friendliness
-    - Incorporate newer match data regularly
+
+    Adding newer match data is very tedious at the moment. And it may not be done.
+    There is no timeline commitment for any changes. I will do it as and when I get time.
 
     ---
 
