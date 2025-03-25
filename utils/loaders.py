@@ -2,7 +2,8 @@ import pandas as pd
 from DataDir import (
     match_innings_dir, match_data_dir, batsman_stats_dir,
     indicator_city_dir, indicator_venue_dir, indicator_event_name_dir, indicator_event_stage_dir,
-    indicator_match_type_dir, indicator_team_type_dir, indicator_teams_dir, indicator_players_dir
+    indicator_match_type_dir, indicator_team_type_dir, indicator_teams_dir, indicator_players_dir,
+    indicator_wicket_type_dir
 )
 
 def load_match_innings_data():
@@ -24,5 +25,6 @@ def load_reference_data():
         "team_type": pd.read_csv(indicator_team_type_dir),
         "teams": pd.read_csv(indicator_teams_dir),
         "players": pd.read_csv(indicator_players_dir),
+        "wicket_type": pd.read_csv(indicator_wicket_type_dir)
     }
     return refs
