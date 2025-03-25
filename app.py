@@ -2,6 +2,8 @@ import streamlit as st
 from screens.innings_page import show_innings_page
 from screens.summary_page import show_summary_page
 from screens.batsman_page import show_batsman_page
+from screens.matchup_page import show_matchup_page
+
 
 st.set_page_config(page_title="Cricket Match Viewer", layout="wide")
 st.title("Cricket Match Data Viewer")
@@ -13,14 +15,18 @@ with st.sidebar:
     st.markdown("### Select Dataset")
     if st.button("Match Summary Data"):
         st.session_state.view_section = "summary"
-    if st.button("Match Innings Data"):
-        st.session_state.view_section = "innings"
+    # if st.button("Match Innings Data"):
+    #     st.session_state.view_section = "innings"
     if st.button("Batsman Statistics"):
         st.session_state.view_section = "batsman"
+    if st.button("Matchup Statistics"):
+        st.session_state.view_section = "matchup"
 
-if st.session_state.view_section == "innings":
+if st.session_state.view_section == "summary":
     show_innings_page()
-elif st.session_state.view_section == "summary":
-    show_summary_page()
+# elif st.session_state.view_section == "innings":
+#     show_summary_page()
 elif st.session_state.view_section == "batsman":
     show_batsman_page()
+elif st.session_state.view_section == "matchup":
+    show_matchup_page()
