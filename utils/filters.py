@@ -84,3 +84,53 @@ def apply_batsman_filters(df):
                     st.info(f"Not enough variation in **{field.replace('_', ' ').title()}** to apply a filter.")
 
     return df
+
+def apply_matchup_filters(df):
+    with st.sidebar:
+        st.markdown("### Stats Settings")
+        match_limit = st.number_input(
+            "Show stats for last X matches",
+            min_value=0, max_value=100, value=0,
+            help="Leave as 0 to use full history"
+        )
+
+        st.markdown("### Matchup Filters")
+
+        selected_batter = st.selectbox(
+            "Select Batter", ["None"] + sorted(df["batter"].dropna().unique()),
+            key="matchup_batter"
+        )
+        if selected_batter != "None":
+            df = df[df["batter"] == selected_batter]
+        else:
+            return None, None, None
+
+        selected_bowler = st.selectbox(
+            "Select Bowler", ["None"] + sorted(df["bowler"].dropna().unique()),
+            key="matchup_bowler"
+        )
+        if selected_bowler != "None":
+            df = df[df["bowler"] == selected_bowler]
+
+        for field in ["event_name", "match_type", "team_type", "city", "venue"]:
+            if field in df.columns:
+                opts = ["All"] + sorted(df[field].dropna().unique())
+                selected = st.selectbox(
+                    f"{field.replace('_', ' ').title()}",
+                    opts,
+                    key=f"matchup_{field}"
+                )
+                if selected != "All":
+                    df = df[df[field] == selected]
+
+        if "date" in df.columns:
+            df["date"] = pd.to_datetime(df["date"], errors="coerce")
+            df = df.dropna(subset=["date"])
+            if not df.empty:
+                min_date = df["date"].min().date()
+                max_date = df["date"].max().date()
+                date_range = st.date_input("Date Range", [min_date, max_date], key="matchup_date")
+                if len(date_range) == 2:
+                    df = df[(df["date"].dt.date >= date_range[0]) & (df["date"].dt.date <= date_range[1])]
+
+    return df, selected_bowler, match_limit
