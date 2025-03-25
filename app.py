@@ -35,3 +35,15 @@ elif st.session_state.view_section == "matchup":
     show_matchup_page()
 elif st.session_state.view_section == "readme":
     show_readme_page()
+
+st.markdown(
+    """
+    <hr style="margin-top: 3em; margin-bottom: 1em">
+    <div style="font-size: 0.9em; color: gray; text-align: center;">
+        Data sourced from <a href="https://cricsheet.org" target="_blank">Cricsheet</a>, available under the 
+        <a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank">Open Data Commons Attribution License (ODC-By v1.0)</a>.<br>
+        This is a personal learning project. Data may be incomplete or inaccurate. Use at your own discretion.
+    </div>
+    """,
+    unsafe_allow_html=True
+)
