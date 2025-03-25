@@ -61,5 +61,9 @@ def show_readme_page():
     - You are absolutely free to do so!
     - A simple credit to this project would be appreciated 🙏
 
+    Anyone is free to use the site and the insights shared here for personal or educational purposes. However, please note that this project was built purely for learning, and I do not make any guarantees regarding the accuracy or completeness of the data, calculations, or inferences shown.
+
+    By using the site, you acknowledge that the data may be incomplete or contain errors, and you agree that I will not be held liable for any use, interpretation, or decisions made based on this content.
+    
     Thanks for checking it out!
     """)
